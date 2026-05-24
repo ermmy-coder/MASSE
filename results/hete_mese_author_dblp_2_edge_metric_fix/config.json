@@ -1,0 +1,20 @@
+{
+    "exp_name": "hete_mese_author_dblp_2_edge_metric_fix",
+    "dataset": "DBLP",
+    "center_type": "author",
+    "meta_paths": {
+        "A-P-A": 1.0,
+        "A-P-C-P-A": 1.0
+    },
+    "thresholds": {
+        "A-P-A": 2,
+        "A-P-C-P-A": 10
+    },
+    "consensus": {
+        "min_agree": 1,
+        "normalize": "all_layers"
+    },
+    "expansion": {
+        "stable": false
+    }
+}

@@ -1,4 +1,5 @@
 import networkx as nx
+import numpy as np
 
 from core.metapath_engine import (
     MetaPathEngine
@@ -52,6 +53,68 @@ META_PATH_MAPPING = {
         'publish'
     ]
 }
+
+# ==========================================================
+# MASSE:
+# meta-path reliability
+# ==========================================================
+
+def compute_meta_path_reliability(
+    G,
+    config
+):
+
+    weights = []
+
+    for _, _, data in G.edges(data=True):
+
+        w = data.get(
+            'weight',
+            1.0
+        )
+
+        weights.append(w)
+
+    if len(weights) == 0:
+
+        return 0.0
+
+    weights = np.array(weights)
+
+    p = weights / (
+        weights.sum() + 1e-12
+    )
+
+    entropy = -np.sum(
+        p * np.log(
+            p + 1e-12
+        )
+    )
+
+    tau = config[
+        'masse'
+    ]['reliability'][
+        'entropy_temperature'
+    ]
+    
+    # reliability = np.exp(
+    #     -entropy / tau
+    # )
+    reliability = 1 / (
+        1 + entropy
+    )
+    min_r = config[
+        'masse'
+    ]['reliability'][
+        'min_reliability'
+    ]
+    
+    reliability = max(
+        reliability,
+        min_r
+    )
+
+    return float(reliability)
 
 
 # ==========================================================
@@ -172,5 +235,53 @@ def build_multiplex_network(
             'graph': G,
             'weight': path_weight
         }
+
+    return multiplex
+# ==========================================================
+# MASSE multiplex
+# ==========================================================
+
+def build_masse_multiplex(
+    hetero_graph,
+    central_type,
+    meta_paths,
+    logger,
+    config=None
+):
+
+    multiplex = build_multiplex_network(
+        hetero_graph,
+        central_type,
+        meta_paths,
+        logger,
+        config
+    )
+
+    logger.info(
+        '\n========== '
+        'MASSE Reliability '
+        '=========='
+    )
+
+    for meta_path in multiplex:
+
+        G = multiplex[meta_path]['graph']
+
+        reliability = (
+            compute_meta_path_reliability(
+                G,
+                config
+            )
+        )
+
+        multiplex[meta_path][
+            'reliability'
+        ] = reliability
+
+        logger.info(
+            f'{meta_path} '
+            f'reliability='
+            f'{reliability:.6f}'
+        )
 
     return multiplex

@@ -2,6 +2,7 @@ import numpy as np
 import networkx as nx
 from scipy.special import comb
 from collections import defaultdict
+from networkx.algorithms.community import modularity
 
 
 def convert_to_networkx(hetero_graph):
@@ -30,9 +31,34 @@ def convert_to_networkx(hetero_graph):
 
     return G
 
+# ==========================================================
+# fast modularity
+# ==========================================================
 
+def fast_modularity(
+    G,
+    communities
+):
+
+    clean_comms = []
+
+    for comm in communities:
+
+        clean_comms.append(
+            set(comm)
+        )
+
+    return modularity(
+        G,
+        clean_comms,
+        weight='weight'
+    )
 # ==========================================================
 # 重叠模块度
+# ==========================================================
+# ==========================================================
+# overlapping modularity
+# Eq.(6) in Hete_MESE
 # ==========================================================
 
 def overlapping_modularity(
@@ -43,58 +69,140 @@ def overlapping_modularity(
     m = G.number_of_edges()
 
     if m == 0:
-        return 0
 
-    nodes = list(G.nodes())
+        return 0.0
 
-    A = nx.to_numpy_array(G)
+    # ======================================================
+    # Ov:
+    # number of communities each node belongs to
+    # ======================================================
 
-    node_index = {
-        n: i
-        for i, n in enumerate(nodes)
-    }
-
-    O = {n: 0 for n in nodes}
+    Ov = {}
 
     for comm in communities:
 
-        for n in comm:
+        for node in comm:
 
-            if n in O:
-                O[n] += 1
+            Ov[node] = (
+                Ov.get(node, 0)
+                + 1
+            )
 
-    Q = 0
+    Q = 0.0
+
+    nodes = list(
+        G.nodes()
+    )
+
+    # ======================================================
+    # Eq.(6)
+    # ======================================================
 
     for comm in communities:
 
-        for v in comm:
+        comm_nodes = list(comm)
 
-            for w in comm:
+        subG = G.subgraph(
+            comm_nodes
+        )
+        
+        for v, w, data in subG.edges(data=True):
+        
+            Avw = data.get(
+                'weight',
+                1.0
+            )
+        
+            kv = G.degree(
+                v,
+                weight='weight'
+            )
+        
+            kw = G.degree(
+                w,
+                weight='weight'
+            )
+        
+            ov = Ov.get(v, 1)
+        
+            ow = Ov.get(w, 1)
+        
+            term = (
+                1.0 / (ov * ow)
+            ) * (
+                Avw
+                -
+                (
+                    kv * kw
+                ) / (2*m)
+            )
+        
+            Q += term
 
-                if v == w:
-                    continue
+    Q = Q / (2*m)
 
-                if v not in node_index:
-                    continue
+    return float(Q)
 
-                if w not in node_index:
-                    continue
+# def overlapping_modularity(
+#     G,
+#     communities
+# ):
 
-                i = node_index[v]
-                j = node_index[w]
+#     m = G.number_of_edges()
 
-                kv = G.degree(v)
-                kw = G.degree(w)
+#     if m == 0:
+#         return 0
 
-                Q += (
-                    A[i][j]
-                    - (kv * kw) / (2 * m)
-                ) / (
-                    max(1, O[v]) *
-                    max(1, O[w])
-                )
+#     nodes = list(G.nodes())
 
-    return Q / (2 * m)
+#     A = nx.to_numpy_array(G)
+
+#     node_index = {
+#         n: i
+#         for i, n in enumerate(nodes)
+#     }
+
+#     O = {n: 0 for n in nodes}
+
+#     for comm in communities:
+
+#         for n in comm:
+
+#             if n in O:
+#                 O[n] += 1
+
+#     Q = 0
+
+#     for comm in communities:
+
+#         for v in comm:
+
+#             for w in comm:
+
+#                 if v == w:
+#                     continue
+
+#                 if v not in node_index:
+#                     continue
+
+#                 if w not in node_index:
+#                     continue
+
+#                 i = node_index[v]
+#                 j = node_index[w]
+
+#                 kv = G.degree(v)
+#                 kw = G.degree(w)
+
+#                 Q += (
+#                     A[i][j]
+#                     - (kv * kw) / (2 * m)
+#                 ) / (
+#                     max(1, O[v]) *
+#                     max(1, O[w])
+#                 )
+
+#     return Q / (2 * m)
 
 
 # ==========================================================
@@ -234,18 +342,49 @@ def calc_community_statistics(
 # ==========================================================
 
 def evaluate_all(
+    graph,
     hetero_graph,
     communities,
-    logger=None
+    central_type,
+    logger
 ):
+#     G = convert_to_networkx(
+#     hetero_graph
+# )
+    #add_for_modularity
+    G = graph
+    # ======================================================
+    # keep only central nodes
+    # ======================================================
+    
+    central_comms = []
+    
+    for comm in communities:
+    
+        if isinstance(comm, dict):
+    
+            central_nodes = comm.get(
+                central_type,
+                set()
+            )
+    
+            central_comms.append(
+                set(central_nodes)
+            )
+    
+        else:
+    
+            central_comms.append(
+                set(comm)
+            )
 
-    G = convert_to_networkx(
-        hetero_graph
-    )
-
-    modularity = overlapping_modularity(
+    # modularity = overlapping_modularity(
+    #     G,
+    #     central_comms
+    # )
+    modularity = fast_modularity(
         G,
-        communities
+        central_comms
     )
 
     surprise = calc_surprise(
@@ -373,6 +512,30 @@ def load_author_labels(label_path):
 
     return labels
 
+def load_conf_labels(label_path):
+
+    labels = {}
+
+    with open(
+        label_path,
+        'r',
+        encoding='utf-8'
+    ) as f:
+
+        for line in f:
+
+            parts = line.strip().split()
+
+            if len(parts) < 2:
+                continue
+
+            conf_id = parts[0]
+
+            label = parts[1]
+
+            labels[f'c{conf_id}'] = label
+
+    return labels
 
 def calculate_nmi(
     communities,
@@ -428,3 +591,38 @@ def calculate_nmi(
         )
 
     return nmi
+# ==========================================================
+# flatten heterogeneous communities
+# ==========================================================
+
+def flatten_communities(
+    communities
+):
+
+    flattened = []
+
+    for comm in communities:
+
+        # ==================================================
+        # heterogeneous dict community
+        # ==================================================
+
+        if isinstance(comm, dict):
+
+            merged = set()
+
+            for nodes in comm.values():
+
+                merged.update(nodes)
+
+            flattened.append(merged)
+
+        # ==================================================
+        # already flat
+        # ==================================================
+
+        else:
+
+            flattened.append(set(comm))
+
+    return flattened

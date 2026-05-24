@@ -1,0 +1,58 @@
+[INFO] 2026-05-25 01:38:02,873 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-25 01:38:02,902 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-25 01:38:02,912 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-25 01:38:02,921 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-25 01:38:02,998 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-25 01:38:03,074 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-25 01:38:03,109 - 
+========== Building P-A-P ==========
+[INFO] 2026-05-25 01:38:03,118 - P-A-P matrix shape=(14376, 14376)
+[INFO] 2026-05-25 01:38:04,230 - P-A-P nodes=13774 edges=215663 total_weight=497692.0000
+[INFO] 2026-05-25 01:38:04,235 - 
+========== Building P-T-P ==========
+[INFO] 2026-05-25 01:38:05,492 - P-T-P matrix shape=(14376, 14376)
+[INFO] 2026-05-25 01:38:19,766 - P-T-P nodes=4672 edges=14219 total_weight=147202.0000
+[INFO] 2026-05-25 01:38:19,768 - 
+========== Building P-C-P ==========
+[INFO] 2026-05-25 01:38:20,035 - P-C-P matrix shape=(14376, 14376)
+[INFO] 2026-05-25 01:39:04,338 - P-C-P nodes=14376 edges=8232454 total_weight=16464908.0000
+[INFO] 2026-05-25 01:39:05,585 - 
+========== MASSE Reliability ==========
+[INFO] 2026-05-25 01:39:05,820 - P-A-P reliability=0.075625
+[INFO] 2026-05-25 01:39:05,835 - P-T-P reliability=0.094718
+[INFO] 2026-05-25 01:39:14,071 - P-C-P reliability=0.059089
+[INFO] 2026-05-25 01:40:54,379 - [INTERACTION] P-A-P <-> P-T-P = 0.2888
+[INFO] 2026-05-25 01:40:54,397 - [INTERACTION] P-A-P <-> P-C-P = 0.2230
+[INFO] 2026-05-25 01:40:54,408 - [INTERACTION] P-T-P <-> P-A-P = 0.2888
+[INFO] 2026-05-25 01:40:54,417 - [INTERACTION] P-T-P <-> P-C-P = 0.2061
+[INFO] 2026-05-25 01:40:54,435 - [INTERACTION] P-C-P <-> P-A-P = 0.2230
+[INFO] 2026-05-25 01:40:54,446 - [INTERACTION] P-C-P <-> P-T-P = 0.2061
+[INFO] 2026-05-25 01:42:46,675 - MASSE consensus nodes=14376 edges=8383593
+[INFO] 2026-05-25 01:45:00,415 - MASSE communities=16
+[INFO] 2026-05-25 01:45:02,245 - [MASSE] Expanding 0
+[INFO] 2026-05-25 01:45:16,012 - [MASSE] Expanding 1
+[INFO] 2026-05-25 01:45:29,504 - [MASSE] Expanding 2
+[INFO] 2026-05-25 01:45:43,476 - [MASSE] Expanding 3
+[INFO] 2026-05-25 01:45:56,411 - [MASSE] Expanding 4
+[INFO] 2026-05-25 01:46:09,330 - [MASSE] Expanding 5
+[INFO] 2026-05-25 01:46:22,293 - [MASSE] Expanding 6
+[INFO] 2026-05-25 01:46:34,589 - [MASSE] Expanding 7
+[INFO] 2026-05-25 01:46:46,986 - [MASSE] Expanding 8
+[INFO] 2026-05-25 01:46:59,340 - [MASSE] Expanding 9
+[INFO] 2026-05-25 01:47:11,486 - [MASSE] Expanding 10
+[INFO] 2026-05-25 01:47:23,533 - [MASSE] Expanding 11
+[INFO] 2026-05-25 01:47:35,519 - [MASSE] Expanding 12
+[INFO] 2026-05-25 01:47:47,210 - [MASSE] Expanding 13
+[INFO] 2026-05-25 01:47:58,795 - [MASSE] Expanding 14
+[INFO] 2026-05-25 01:48:10,659 - [MASSE] Expanding 15
+[INFO] 2026-05-25 01:48:40,392 - [EVAL] Modularity=0.8439
+[INFO] 2026-05-25 01:48:40,392 - [EVAL] Surprise=0.0000
+[INFO] 2026-05-25 01:48:40,392 - [EVAL] Keyword coherence=0.0000
+[INFO] 2026-05-25 01:48:40,392 - [EVAL] Community stats={'num_communities': 16, 'avg_size': np.float64(4.0), 'max_size': np.int64(4), 'min_size': np.int64(4)}
+[INFO] 2026-05-25 01:48:40,486 - [NMI DEBUG] matched_nodes=64912
+[INFO] 2026-05-25 01:48:40,510 - [NMI] 0.0000
+[INFO] 2026-05-25 01:48:40,555 - [NMI DEBUG] matched_nodes=100
+[INFO] 2026-05-25 01:48:40,557 - [NMI] 0.4900
+[INFO] 2026-05-25 01:48:40,598 - [NMI DEBUG] matched_nodes=320
+[INFO] 2026-05-25 01:48:40,600 - [NMI] 0.0000
+[INFO] 2026-05-25 01:48:40,606 - Saved communities...

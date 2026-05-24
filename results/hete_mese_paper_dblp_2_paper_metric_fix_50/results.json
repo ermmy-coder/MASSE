@@ -1,0 +1,15 @@
+{
+    "method": "Hete_MESE",
+    "modularity": 0.8516412986087099,
+    "paper_nmi": 0.500606957030062,
+    "author_nmi": 0.3184610228377732,
+    "conference_nmi": 0.5842325497695958,
+    "overall_nmi": 0.467766843212477,
+    "runtime": 366.328430891037,
+    "statistics": {
+        "num_communities": 18,
+        "avg_size": 4.0,
+        "max_size": "4",
+        "min_size": "4"
+    }
+}

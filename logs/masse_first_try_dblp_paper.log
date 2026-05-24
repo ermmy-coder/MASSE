@@ -1,0 +1,88 @@
+[INFO] 2026-05-24 23:17:53,671 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-24 23:17:53,700 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-24 23:17:53,710 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-24 23:17:53,719 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-24 23:17:53,798 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-24 23:17:53,876 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-24 23:17:53,911 - 
+========== Building P-A-P ==========
+[INFO] 2026-05-24 23:17:53,919 - P-A-P matrix shape=(14376, 14376)
+[INFO] 2026-05-24 23:17:55,058 - P-A-P nodes=13774 edges=215663 total_weight=497692.0000
+[INFO] 2026-05-24 23:17:55,062 - 
+========== Building P-T-P ==========
+[INFO] 2026-05-24 23:17:56,339 - P-T-P matrix shape=(14376, 14376)
+[INFO] 2026-05-24 23:19:07,077 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-24 23:19:07,106 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-24 23:19:07,116 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-24 23:19:07,125 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-24 23:19:07,204 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-24 23:19:07,280 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-24 23:19:07,317 - 
+========== Building P-A-P ==========
+[INFO] 2026-05-24 23:19:07,343 - P-A-P matrix shape=(14376, 14376)
+[INFO] 2026-05-24 23:19:08,476 - P-A-P nodes=13774 edges=215663 total_weight=497692.0000
+[INFO] 2026-05-24 23:19:08,481 - 
+========== Building P-T-P ==========
+[INFO] 2026-05-24 23:19:09,771 - P-T-P matrix shape=(14376, 14376)
+[INFO] 2026-05-24 23:19:25,220 - P-T-P nodes=4672 edges=14219 total_weight=147202.0000
+[INFO] 2026-05-24 23:19:25,221 - 
+========== Building P-C-P ==========
+[INFO] 2026-05-24 23:19:25,502 - P-C-P matrix shape=(14376, 14376)
+[INFO] 2026-05-24 23:20:10,032 - P-C-P nodes=14376 edges=8232454 total_weight=16464908.0000
+[INFO] 2026-05-24 23:20:11,362 - 
+========== MASSE Reliability ==========
+[INFO] 2026-05-24 23:20:11,576 - P-A-P reliability=0.000005
+[INFO] 2026-05-24 23:20:11,591 - P-T-P reliability=0.000071
+[INFO] 2026-05-24 23:20:19,552 - P-C-P reliability=0.000000
+[INFO] 2026-05-24 23:22:02,058 - [INTERACTION] P-A-P <-> P-T-P = 0.2780
+[INFO] 2026-05-24 23:22:02,070 - [INTERACTION] P-A-P <-> P-C-P = 0.2191
+[INFO] 2026-05-24 23:22:02,077 - [INTERACTION] P-T-P <-> P-A-P = 0.2780
+[INFO] 2026-05-24 23:22:02,083 - [INTERACTION] P-T-P <-> P-C-P = 0.1903
+[INFO] 2026-05-24 23:22:02,094 - [INTERACTION] P-C-P <-> P-A-P = 0.2191
+[INFO] 2026-05-24 23:22:02,100 - [INTERACTION] P-C-P <-> P-T-P = 0.1903
+[INFO] 2026-05-24 23:23:48,285 - MASSE consensus nodes=14376 edges=8383491
+[INFO] 2026-05-24 23:30:10,624 - MASSE communities=24
+[INFO] 2026-05-24 23:30:12,372 - [MASSE] Expanding 0
+[INFO] 2026-05-24 23:30:19,701 - [MASSE] Expanding 1
+[INFO] 2026-05-24 23:30:25,887 - [MASSE] Expanding 2
+[INFO] 2026-05-24 23:30:28,992 - [MASSE] Expanding 3
+[INFO] 2026-05-24 23:30:30,009 - [MASSE] Expanding 4
+[INFO] 2026-05-24 23:30:30,663 - [MASSE] Expanding 5
+[INFO] 2026-05-24 23:30:31,263 - [MASSE] Expanding 6
+[INFO] 2026-05-24 23:30:31,810 - [MASSE] Expanding 7
+[INFO] 2026-05-24 23:30:32,396 - [MASSE] Expanding 8
+[INFO] 2026-05-24 23:30:33,009 - [MASSE] Expanding 9
+[INFO] 2026-05-24 23:30:33,568 - [MASSE] Expanding 10
+[INFO] 2026-05-24 23:30:34,042 - [MASSE] Expanding 11
+[INFO] 2026-05-24 23:30:34,453 - [MASSE] Expanding 12
+[INFO] 2026-05-24 23:30:34,830 - [MASSE] Expanding 13
+[INFO] 2026-05-24 23:30:35,191 - [MASSE] Expanding 14
+[INFO] 2026-05-24 23:30:35,557 - [MASSE] Expanding 15
+[INFO] 2026-05-24 23:30:35,867 - [MASSE] Expanding 16
+[INFO] 2026-05-24 23:30:36,173 - [MASSE] Expanding 17
+[INFO] 2026-05-24 23:30:36,449 - [MASSE] Expanding 18
+[INFO] 2026-05-24 23:30:36,727 - [MASSE] Expanding 19
+[INFO] 2026-05-24 23:30:36,997 - [MASSE] Expanding 20
+[INFO] 2026-05-24 23:30:37,220 - [MASSE] Expanding 21
+[INFO] 2026-05-24 23:30:37,420 - [MASSE] Expanding 22
+[INFO] 2026-05-24 23:30:37,613 - [MASSE] Expanding 23
+[INFO] 2026-05-24 23:32:16,083 - [EVAL] Modularity=-0.0362
+[INFO] 2026-05-24 23:32:16,083 - [EVAL] Surprise=0.0000
+[INFO] 2026-05-24 23:32:16,083 - [EVAL] Keyword coherence=0.6727
+[INFO] 2026-05-24 23:32:16,083 - [EVAL] Community stats={'num_communities': 24, 'avg_size': np.float64(599.0), 'max_size': np.int64(3930), 'min_size': np.int64(2)}
+[INFO] 2026-05-24 23:32:16,086 - [NMI DEBUG] matched_nodes=100
+[INFO] 2026-05-24 23:32:16,089 - [NMI] 0.5019
+[INFO] 2026-05-24 23:32:16,095 - Saved communities...
+[INFO] 2026-05-24 23:44:08,575 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-24 23:44:08,604 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-24 23:44:08,614 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-24 23:44:08,624 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-24 23:44:08,703 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-24 23:44:08,781 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-24 23:44:08,816 - 
+========== Building A-P-A ==========
+[INFO] 2026-05-24 23:44:08,819 - A-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-24 23:44:08,880 - A-P-A nodes=5264 edges=8789 total_weight=51362.0000
+[INFO] 2026-05-24 23:44:08,882 - 
+========== Building A-P-C-P-A ==========
+[INFO] 2026-05-24 23:44:10,829 - A-P-C-P-A matrix shape=(14475, 14475)

@@ -36,6 +36,7 @@ from core.metrics import (
     evaluate_all,
     load_author_labels,
     load_paper_labels,
+    load_conf_labels,
     calculate_nmi
 )
 
@@ -103,10 +104,12 @@ multiplex = build_multiplex_network(
 # consensus
 # ==========================================================
 
-seed_comms = detect_seed_communities(
-    multiplex,
-    logger,
-    config
+seed_comms, consensus_graph = (
+    detect_seed_communities(
+        multiplex,
+        logger,
+        config
+    )
 )
 
 # ==========================================================
@@ -127,39 +130,71 @@ runtime = time.time() - start_time
 # ==========================================================
 
 eval_results = evaluate_all(
+    consensus_graph,
     hetero_graph,
-    seed_comms,
+    final_comms,
+    config['center_type'],
     logger
 )
 
-if config['center_type']=="author":
+from core.metrics import (
+    flatten_communities
+)
 
-    labels = load_author_labels(
+flat_comms = flatten_communities(
+    final_comms
+)
+
+# if config['center_type']=="author":
+
+author_labels = load_author_labels(
         os.path.join(
             DATASET_DIR,
             'author_label.txt'
         )
     )
-    nmi = calculate_nmi(
-        seed_comms,
-        labels,
+author_nmi = calculate_nmi(
+        flat_comms,
+        author_labels,
         node_prefix='a',
         logger=logger
     )
-else:
-    labels = load_paper_labels(
+# else:
+paper_labels = load_paper_labels(
         os.path.join(
             DATASET_DIR,
             'paper_label.txt'
         )
     )
 
-    nmi = calculate_nmi(
-        seed_comms,
-        labels,
+paper_nmi = calculate_nmi(
+        flat_comms,
+        paper_labels,
         node_prefix='p',
         logger=logger
     )
+
+conference_labels = load_conf_labels(
+    os.path.join(
+        DATASET_DIR,
+        'conf_label.txt'
+    )
+)
+
+conference_nmi = calculate_nmi(
+    flat_comms,
+    conference_labels,
+    node_prefix='c',
+    logger=logger
+)
+
+overall_nmi = (
+    paper_nmi
+    +
+    author_nmi
+    +
+    conference_nmi
+) / 3
 
 final_results = {
 
@@ -168,8 +203,16 @@ final_results = {
     'modularity':
         eval_results['modularity'],
 
-    'nmi':
-        nmi,
+    'paper_nmi':
+        paper_nmi,
+
+    'author_nmi':
+        author_nmi,
+
+    'conference_nmi':
+        conference_nmi,
+    'overall_nmi':
+        overall_nmi,
 
     'runtime':
         runtime,

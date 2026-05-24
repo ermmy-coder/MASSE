@@ -1,0 +1,57 @@
+[INFO] 2026-05-24 23:44:32,232 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-24 23:44:32,262 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-24 23:44:32,272 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-24 23:44:32,282 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-24 23:44:32,362 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-24 23:44:32,440 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-24 23:44:32,476 - 
+========== Building A-P-A ==========
+[INFO] 2026-05-24 23:44:32,480 - A-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-24 23:44:32,542 - A-P-A nodes=5264 edges=8789 total_weight=51362.0000
+[INFO] 2026-05-24 23:44:32,543 - 
+========== Building A-P-C-P-A ==========
+[INFO] 2026-05-24 23:44:34,516 - A-P-C-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-24 23:44:48,827 - A-P-C-P-A nodes=14380 edges=1191844 total_weight=19193234.0000
+[INFO] 2026-05-24 23:44:49,059 - 
+========== MASSE Reliability ==========
+[INFO] 2026-05-24 23:44:49,070 - A-P-A reliability=0.001000
+[INFO] 2026-05-24 23:44:50,272 - A-P-C-P-A reliability=0.001000
+[INFO] 2026-05-24 23:45:14,133 - [INTERACTION] A-P-A <-> A-P-C-P-A = 0.2426
+[INFO] 2026-05-24 23:45:14,140 - [INTERACTION] A-P-C-P-A <-> A-P-A = 0.2426
+[INFO] 2026-05-24 23:45:27,966 - MASSE consensus nodes=14380 edges=1017788
+[INFO] 2026-05-24 23:45:55,264 - MASSE communities=4
+[INFO] 2026-05-24 23:45:56,834 - [MASSE] Expanding 0
+[INFO] 2026-05-24 23:46:04,786 - [MASSE] Expanding 1
+[INFO] 2026-05-24 23:46:12,728 - [MASSE] Expanding 2
+[INFO] 2026-05-24 23:46:16,743 - [MASSE] Expanding 3
+[INFO] 2026-05-24 23:48:29,713 - [EVAL] Modularity=-0.0043
+[INFO] 2026-05-24 23:48:29,713 - [EVAL] Surprise=0.0000
+[INFO] 2026-05-24 23:48:29,713 - [EVAL] Keyword coherence=0.0000
+[INFO] 2026-05-24 23:48:29,713 - [EVAL] Community stats={'num_communities': 4, 'avg_size': np.float64(3595.0), 'max_size': np.int64(4881), 'min_size': np.int64(2288)}
+[INFO] 2026-05-24 23:48:29,719 - [NMI DEBUG] matched_nodes=4057
+[INFO] 2026-05-24 23:48:29,722 - [NMI] 0.7845
+[INFO] 2026-05-24 23:48:29,729 - Saved communities...
+[INFO] 2026-05-25 00:11:55,304 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-25 00:11:55,333 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-25 00:11:55,343 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-25 00:11:55,353 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-25 00:11:55,432 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-25 00:11:55,510 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-25 00:11:55,546 - 
+========== Building A-P-A ==========
+[INFO] 2026-05-25 00:11:55,550 - A-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-25 00:11:55,633 - A-P-A nodes=5264 edges=8789 total_weight=51362.0000
+[INFO] 2026-05-25 00:11:55,635 - 
+========== Building A-P-C-P-A ==========
+[INFO] 2026-05-25 00:11:57,621 - A-P-C-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-25 00:12:12,056 - A-P-C-P-A nodes=14380 edges=1191844 total_weight=19193234.0000
+[INFO] 2026-05-25 00:12:12,290 - 
+========== MASSE Reliability ==========
+[INFO] 2026-05-25 00:12:12,301 - A-P-A reliability=0.001000
+[INFO] 2026-05-25 00:12:13,475 - A-P-C-P-A reliability=0.001000
+[INFO] 2026-05-25 00:12:37,070 - [INTERACTION] A-P-A <-> A-P-C-P-A = 0.2457
+[INFO] 2026-05-25 00:12:37,077 - [INTERACTION] A-P-C-P-A <-> A-P-A = 0.2457
+[INFO] 2026-05-25 00:12:50,503 - MASSE consensus nodes=14380 edges=1017852
+[INFO] 2026-05-25 00:13:10,910 - MASSE communities=4
+[INFO] 2026-05-25 00:13:12,434 - [MASSE] Expanding 0
+[INFO] 2026-05-25 00:13:20,375 - [MASSE] Expanding 1
