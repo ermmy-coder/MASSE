@@ -1,0 +1,24 @@
+[INFO] 2026-05-20 22:54:57,545 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-20 22:54:57,566 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-20 22:54:57,572 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-20 22:54:57,579 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-20 22:54:57,630 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-20 22:54:57,681 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-20 22:54:57,694 - 
+========== Building A-P-A ==========
+[INFO] 2026-05-20 22:54:57,698 - A-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-20 22:54:57,967 - A-P-A nodes=14036 edges=40269 total_weight=114322.0000
+[INFO] 2026-05-20 22:54:57,968 - 
+========== Building A-P-T-P-A ==========
+[INFO] 2026-05-20 22:55:06,169 - A-P-T-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-20 23:01:56,072 - A-P-T-P-A nodes=14475 edges=63406282 total_weight=235980581.4644
+[INFO] 2026-05-20 23:01:56,073 - 
+========== Building A-P-C-P-A ==========
+[INFO] 2026-05-20 23:01:57,870 - A-P-C-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-20 23:04:07,243 - A-P-C-P-A nodes=14475 edges=19445349 total_weight=45443186.0105
+[INFO] 2026-05-20 23:04:08,873 - Running community detection on A-P-A
+[INFO] 2026-05-20 23:04:10,816 - A-P-A communities=607
+[INFO] 2026-05-20 23:04:10,816 - Running community detection on A-P-T-P-A
+[INFO] 2026-05-20 23:42:59,463 - A-P-T-P-A communities=8
+[INFO] 2026-05-20 23:42:59,464 - Running community detection on A-P-C-P-A
+[INFO] 2026-05-20 23:49:39,967 - A-P-C-P-A communities=4

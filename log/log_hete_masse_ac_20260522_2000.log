@@ -1,0 +1,59 @@
+[INFO] 2026-05-22 20:00:31,179 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-22 20:00:31,202 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-22 20:00:31,209 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-22 20:00:31,216 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-22 20:00:31,272 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-22 20:00:31,329 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-22 20:00:31,351 - 
+========== Building A-P-A ==========
+[INFO] 2026-05-22 20:00:31,355 - A-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 20:00:31,420 - A-P-A nodes=5264 edges=8789 total_weight=51362.0000
+[INFO] 2026-05-22 20:00:31,422 - 
+========== Building A-P-C-P-A ==========
+[INFO] 2026-05-22 20:00:33,219 - A-P-C-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 20:00:46,868 - A-P-C-P-A nodes=14380 edges=1191844 total_weight=19193234.0000
+[INFO] 2026-05-22 20:00:46,982 - Running community detection on A-P-A
+[INFO] 2026-05-22 20:00:47,435 - A-P-A communities=641
+[INFO] 2026-05-22 20:00:47,445 - Running community detection on A-P-C-P-A
+[INFO] 2026-05-22 20:01:10,378 - A-P-C-P-A communities=4
+[INFO] 2026-05-22 20:01:11,005 - Candidate edges=1195267
+[INFO] 2026-05-22 20:01:12,126 - Processed 100000/1195267 candidate edges
+[INFO] 2026-05-22 20:01:12,589 - Processed 200000/1195267 candidate edges
+[INFO] 2026-05-22 20:01:13,063 - Processed 300000/1195267 candidate edges
+[INFO] 2026-05-22 20:01:13,527 - Processed 400000/1195267 candidate edges
+[INFO] 2026-05-22 20:01:14,004 - Processed 500000/1195267 candidate edges
+[INFO] 2026-05-22 20:01:14,455 - Processed 600000/1195267 candidate edges
+[INFO] 2026-05-22 20:01:14,924 - Processed 700000/1195267 candidate edges
+[INFO] 2026-05-22 20:01:15,411 - Processed 800000/1195267 candidate edges
+[INFO] 2026-05-22 20:01:15,903 - Processed 900000/1195267 candidate edges
+[INFO] 2026-05-22 20:01:16,392 - Processed 1000000/1195267 candidate edges
+[INFO] 2026-05-22 20:01:16,897 - Processed 1100000/1195267 candidate edges
+[INFO] 2026-05-22 20:01:17,351 - Consensus graph nodes=14380 edges=1017789
+[INFO] 2026-05-22 20:01:17,351 - Running Louvain on consensus graph
+[INFO] 2026-05-22 20:01:35,824 - Seed communities=4
+[INFO] 2026-05-22 20:01:37,097 - Expanding community 0
+[INFO] 2026-05-22 20:01:42,161 - Expanding community 1
+[INFO] 2026-05-22 20:01:45,495 - Expanding community 2
+[INFO] 2026-05-22 20:01:47,626 - Expanding community 3
+[INFO] 2026-05-22 20:04:04,693 - [EVAL] Modularity=-0.0043
+[INFO] 2026-05-22 20:04:04,693 - [EVAL] Surprise=0.0000
+[INFO] 2026-05-22 20:04:04,693 - [EVAL] Keyword coherence=0.0000
+[INFO] 2026-05-22 20:04:04,693 - [EVAL] Community stats={'num_communities': 4, 'avg_size': np.float64(3595.0), 'max_size': np.int64(4880), 'min_size': np.int64(2282)}
+[INFO] 2026-05-22 20:04:04,700 - [NMI DEBUG] matched_nodes=4057
+[INFO] 2026-05-22 20:04:04,703 - [NMI] 0.7845
+[INFO] 2026-05-22 20:04:04,710 - Saved communities...
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'leidenalg', 'wurlitzer', 'graph_tool', 'infomap', 'bayanpy'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'infomap', 'wurlitzer', 'leidenalg'}
+
+========== LOADING DBLP ==========
+Authors: 14475
+Papers: 14376
+Conferences: 20
+Terms: 8920
+Paper-Author edges: 83588
+Paper-Conference edges: 28752
+Paper-Term edges: 229248
+
+Total edges: 341588
+{'method': 'Hete_MASSE', 'modularity': np.float64(-0.004286551013608728), 'nmi': 0.7844512294078003, 'runtime': 78.39620327949524, 'statistics': {'num_communities': 4, 'avg_size': np.float64(3595.0), 'max_size': np.int64(4880), 'min_size': np.int64(2282)}}

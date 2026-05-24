@@ -1,0 +1,244 @@
+[INFO] 2026-05-21 18:48:33,651 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-21 18:48:33,689 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-21 18:48:33,701 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-21 18:48:33,712 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-21 18:48:33,806 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-21 18:48:33,899 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-21 18:48:33,926 - 
+========== Building P-A-P ==========
+[INFO] 2026-05-21 18:48:33,940 - P-A-P matrix shape=(14376, 14376)
+[INFO] 2026-05-21 18:48:35,901 - P-A-P nodes=13774 edges=215663 total_weight=497692.0000
+[INFO] 2026-05-21 18:48:35,909 - 
+========== Building P-T-P ==========
+[INFO] 2026-05-21 18:48:37,659 - P-T-P matrix shape=(14376, 14376)
+[INFO] 2026-05-21 18:48:55,327 - P-T-P nodes=4672 edges=14219 total_weight=147202.0000
+[INFO] 2026-05-21 18:48:55,330 - 
+========== Building P-C-P ==========
+[INFO] 2026-05-21 18:48:55,648 - P-C-P matrix shape=(14376, 14376)
+[INFO] 2026-05-21 18:48:59,855 - P-C-P nodes=0 edges=0 total_weight=0.0000
+[WARNING] 2026-05-21 18:48:59,855 - [SKIP] P-C-P generated empty graph.
+[INFO] 2026-05-21 18:48:59,885 - Running community detection on P-A-P
+[INFO] 2026-05-21 18:49:08,397 - P-A-P communities=434
+[INFO] 2026-05-21 18:49:08,402 - Running community detection on P-T-P
+[INFO] 2026-05-21 18:49:09,216 - P-T-P communities=355
+[WARNING] 2026-05-21 18:49:09,217 - [SKIP] P-C-P is empty.
+[INFO] 2026-05-21 18:49:09,376 - Candidate edges=228907
+[INFO] 2026-05-21 18:49:10,156 - Processed 100000/228907 candidate edges
+[INFO] 2026-05-21 18:49:10,678 - Processed 200000/228907 candidate edges
+[INFO] 2026-05-21 18:49:10,837 - Consensus graph nodes=13964 edges=197574
+[INFO] 2026-05-21 18:49:10,837 - Running Louvain on consensus graph
+[INFO] 2026-05-21 18:49:17,108 - Seed communities=202
+[INFO] 2026-05-21 18:49:17,626 - Expanding community 0
+[INFO] 2026-05-21 18:49:18,030 - Expanding community 1
+[INFO] 2026-05-21 18:49:18,377 - Expanding community 2
+[INFO] 2026-05-21 18:49:18,764 - Expanding community 3
+[INFO] 2026-05-21 18:49:19,102 - Expanding community 4
+[INFO] 2026-05-21 18:49:19,337 - Expanding community 5
+[INFO] 2026-05-21 18:49:19,613 - Expanding community 6
+[INFO] 2026-05-21 18:49:19,843 - Expanding community 7
+[INFO] 2026-05-21 18:49:20,106 - Expanding community 8
+[INFO] 2026-05-21 18:49:20,327 - Expanding community 9
+[INFO] 2026-05-21 18:49:20,535 - Expanding community 10
+[INFO] 2026-05-21 18:49:20,734 - Expanding community 11
+[INFO] 2026-05-21 18:49:20,942 - Expanding community 12
+[INFO] 2026-05-21 18:49:21,151 - Expanding community 13
+[INFO] 2026-05-21 18:49:21,345 - Expanding community 14
+[INFO] 2026-05-21 18:49:21,527 - Expanding community 15
+[INFO] 2026-05-21 18:49:21,719 - Expanding community 16
+[INFO] 2026-05-21 18:49:21,911 - Expanding community 17
+[INFO] 2026-05-21 18:49:22,111 - Expanding community 18
+[INFO] 2026-05-21 18:49:22,256 - Expanding community 19
+[INFO] 2026-05-21 18:49:22,430 - Expanding community 20
+[INFO] 2026-05-21 18:49:22,601 - Expanding community 21
+[INFO] 2026-05-21 18:49:22,730 - Expanding community 22
+[INFO] 2026-05-21 18:49:22,883 - Expanding community 23
+[INFO] 2026-05-21 18:49:23,082 - Expanding community 24
+[INFO] 2026-05-21 18:49:23,229 - Expanding community 25
+[INFO] 2026-05-21 18:49:23,359 - Expanding community 26
+[INFO] 2026-05-21 18:49:23,506 - Expanding community 27
+[INFO] 2026-05-21 18:49:23,636 - Expanding community 28
+[INFO] 2026-05-21 18:49:23,780 - Expanding community 29
+[INFO] 2026-05-21 18:49:23,909 - Expanding community 30
+[INFO] 2026-05-21 18:49:24,036 - Expanding community 31
+[INFO] 2026-05-21 18:49:24,167 - Expanding community 32
+[INFO] 2026-05-21 18:49:24,283 - Expanding community 33
+[INFO] 2026-05-21 18:49:24,409 - Expanding community 34
+[INFO] 2026-05-21 18:49:24,529 - Expanding community 35
+[INFO] 2026-05-21 18:49:24,646 - Expanding community 36
+[INFO] 2026-05-21 18:49:24,762 - Expanding community 37
+[INFO] 2026-05-21 18:49:24,874 - Expanding community 38
+[INFO] 2026-05-21 18:49:24,983 - Expanding community 39
+[INFO] 2026-05-21 18:49:25,089 - Expanding community 40
+[INFO] 2026-05-21 18:49:25,202 - Expanding community 41
+[INFO] 2026-05-21 18:49:25,300 - Expanding community 42
+[INFO] 2026-05-21 18:49:25,355 - Expanding community 43
+[INFO] 2026-05-21 18:49:25,414 - Expanding community 44
+[INFO] 2026-05-21 18:49:25,469 - Expanding community 45
+[INFO] 2026-05-21 18:49:25,525 - Expanding community 46
+[INFO] 2026-05-21 18:49:25,579 - Expanding community 47
+[INFO] 2026-05-21 18:49:25,635 - Expanding community 48
+[INFO] 2026-05-21 18:49:25,690 - Expanding community 49
+[INFO] 2026-05-21 18:49:25,748 - Expanding community 50
+[INFO] 2026-05-21 18:49:25,800 - Expanding community 51
+[INFO] 2026-05-21 18:49:25,852 - Expanding community 52
+[INFO] 2026-05-21 18:49:25,901 - Expanding community 53
+[INFO] 2026-05-21 18:49:25,947 - Expanding community 54
+[INFO] 2026-05-21 18:49:25,996 - Expanding community 55
+[INFO] 2026-05-21 18:49:26,045 - Expanding community 56
+[INFO] 2026-05-21 18:49:26,093 - Expanding community 57
+[INFO] 2026-05-21 18:49:26,141 - Expanding community 58
+[INFO] 2026-05-21 18:49:26,191 - Expanding community 59
+[INFO] 2026-05-21 18:49:26,240 - Expanding community 60
+[INFO] 2026-05-21 18:49:26,290 - Expanding community 61
+[INFO] 2026-05-21 18:49:26,339 - Expanding community 62
+[INFO] 2026-05-21 18:49:26,388 - Expanding community 63
+[INFO] 2026-05-21 18:49:26,437 - Expanding community 64
+[INFO] 2026-05-21 18:49:26,484 - Expanding community 65
+[INFO] 2026-05-21 18:49:26,531 - Expanding community 66
+[INFO] 2026-05-21 18:49:26,580 - Expanding community 67
+[INFO] 2026-05-21 18:49:26,628 - Expanding community 68
+[INFO] 2026-05-21 18:49:26,676 - Expanding community 69
+[INFO] 2026-05-21 18:49:26,723 - Expanding community 70
+[INFO] 2026-05-21 18:49:26,770 - Expanding community 71
+[INFO] 2026-05-21 18:49:26,818 - Expanding community 72
+[INFO] 2026-05-21 18:49:26,866 - Expanding community 73
+[INFO] 2026-05-21 18:49:26,914 - Expanding community 74
+[INFO] 2026-05-21 18:49:26,961 - Expanding community 75
+[INFO] 2026-05-21 18:49:27,008 - Expanding community 76
+[INFO] 2026-05-21 18:49:27,058 - Expanding community 77
+[INFO] 2026-05-21 18:49:27,113 - Expanding community 78
+[INFO] 2026-05-21 18:49:27,164 - Expanding community 79
+[INFO] 2026-05-21 18:49:27,213 - Expanding community 80
+[INFO] 2026-05-21 18:49:27,261 - Expanding community 81
+[INFO] 2026-05-21 18:49:27,313 - Expanding community 82
+[INFO] 2026-05-21 18:49:27,356 - Expanding community 83
+[INFO] 2026-05-21 18:49:27,402 - Expanding community 84
+[INFO] 2026-05-21 18:49:27,447 - Expanding community 85
+[INFO] 2026-05-21 18:49:27,496 - Expanding community 86
+[INFO] 2026-05-21 18:49:27,541 - Expanding community 87
+[INFO] 2026-05-21 18:49:27,585 - Expanding community 88
+[INFO] 2026-05-21 18:49:27,630 - Expanding community 89
+[INFO] 2026-05-21 18:49:27,672 - Expanding community 90
+[INFO] 2026-05-21 18:49:27,716 - Expanding community 91
+[INFO] 2026-05-21 18:49:27,763 - Expanding community 92
+[INFO] 2026-05-21 18:49:27,808 - Expanding community 93
+[INFO] 2026-05-21 18:49:27,854 - Expanding community 94
+[INFO] 2026-05-21 18:49:27,901 - Expanding community 95
+[INFO] 2026-05-21 18:49:27,947 - Expanding community 96
+[INFO] 2026-05-21 18:49:27,993 - Expanding community 97
+[INFO] 2026-05-21 18:49:28,040 - Expanding community 98
+[INFO] 2026-05-21 18:49:28,085 - Expanding community 99
+[INFO] 2026-05-21 18:49:28,130 - Expanding community 100
+[INFO] 2026-05-21 18:49:28,174 - Expanding community 101
+[INFO] 2026-05-21 18:49:28,218 - Expanding community 102
+[INFO] 2026-05-21 18:49:28,262 - Expanding community 103
+[INFO] 2026-05-21 18:49:28,307 - Expanding community 104
+[INFO] 2026-05-21 18:49:28,350 - Expanding community 105
+[INFO] 2026-05-21 18:49:28,393 - Expanding community 106
+[INFO] 2026-05-21 18:49:28,437 - Expanding community 107
+[INFO] 2026-05-21 18:49:28,479 - Expanding community 108
+[INFO] 2026-05-21 18:49:28,523 - Expanding community 109
+[INFO] 2026-05-21 18:49:28,567 - Expanding community 110
+[INFO] 2026-05-21 18:49:28,616 - Expanding community 111
+[INFO] 2026-05-21 18:49:28,662 - Expanding community 112
+[INFO] 2026-05-21 18:49:28,709 - Expanding community 113
+[INFO] 2026-05-21 18:49:28,742 - Expanding community 114
+[INFO] 2026-05-21 18:49:28,773 - Expanding community 115
+[INFO] 2026-05-21 18:49:28,804 - Expanding community 116
+[INFO] 2026-05-21 18:49:28,834 - Expanding community 117
+[INFO] 2026-05-21 18:49:28,868 - Expanding community 118
+[INFO] 2026-05-21 18:49:28,899 - Expanding community 119
+[INFO] 2026-05-21 18:49:28,930 - Expanding community 120
+[INFO] 2026-05-21 18:49:28,959 - Expanding community 121
+[INFO] 2026-05-21 18:49:28,989 - Expanding community 122
+[INFO] 2026-05-21 18:49:29,019 - Expanding community 123
+[INFO] 2026-05-21 18:49:29,052 - Expanding community 124
+[INFO] 2026-05-21 18:49:29,082 - Expanding community 125
+[INFO] 2026-05-21 18:49:29,117 - Expanding community 126
+[INFO] 2026-05-21 18:49:29,153 - Expanding community 127
+[INFO] 2026-05-21 18:49:29,189 - Expanding community 128
+[INFO] 2026-05-21 18:49:29,225 - Expanding community 129
+[INFO] 2026-05-21 18:49:29,259 - Expanding community 130
+[INFO] 2026-05-21 18:49:29,291 - Expanding community 131
+[INFO] 2026-05-21 18:49:29,323 - Expanding community 132
+[INFO] 2026-05-21 18:49:29,353 - Expanding community 133
+[INFO] 2026-05-21 18:49:29,381 - Expanding community 134
+[INFO] 2026-05-21 18:49:29,414 - Expanding community 135
+[INFO] 2026-05-21 18:49:29,449 - Expanding community 136
+[INFO] 2026-05-21 18:49:29,483 - Expanding community 137
+[INFO] 2026-05-21 18:49:29,518 - Expanding community 138
+[INFO] 2026-05-21 18:49:29,551 - Expanding community 139
+[INFO] 2026-05-21 18:49:29,584 - Expanding community 140
+[INFO] 2026-05-21 18:49:29,616 - Expanding community 141
+[INFO] 2026-05-21 18:49:29,646 - Expanding community 142
+[INFO] 2026-05-21 18:49:29,679 - Expanding community 143
+[INFO] 2026-05-21 18:49:29,725 - Expanding community 144
+[INFO] 2026-05-21 18:49:29,766 - Expanding community 145
+[INFO] 2026-05-21 18:49:29,802 - Expanding community 146
+[INFO] 2026-05-21 18:49:29,839 - Expanding community 147
+[INFO] 2026-05-21 18:49:29,874 - Expanding community 148
+[INFO] 2026-05-21 18:49:29,910 - Expanding community 149
+[INFO] 2026-05-21 18:49:29,942 - Expanding community 150
+[INFO] 2026-05-21 18:49:29,974 - Expanding community 151
+[INFO] 2026-05-21 18:49:30,004 - Expanding community 152
+[INFO] 2026-05-21 18:49:30,037 - Expanding community 153
+[INFO] 2026-05-21 18:49:30,072 - Expanding community 154
+[INFO] 2026-05-21 18:49:30,109 - Expanding community 155
+[INFO] 2026-05-21 18:49:30,145 - Expanding community 156
+[INFO] 2026-05-21 18:49:30,180 - Expanding community 157
+[INFO] 2026-05-21 18:49:30,211 - Expanding community 158
+[INFO] 2026-05-21 18:49:30,243 - Expanding community 159
+[INFO] 2026-05-21 18:49:30,273 - Expanding community 160
+[INFO] 2026-05-21 18:49:30,306 - Expanding community 161
+[INFO] 2026-05-21 18:49:30,337 - Expanding community 162
+[INFO] 2026-05-21 18:49:30,369 - Expanding community 163
+[INFO] 2026-05-21 18:49:30,398 - Expanding community 164
+[INFO] 2026-05-21 18:49:30,428 - Expanding community 165
+[INFO] 2026-05-21 18:49:30,461 - Expanding community 166
+[INFO] 2026-05-21 18:49:30,494 - Expanding community 167
+[INFO] 2026-05-21 18:49:30,526 - Expanding community 168
+[INFO] 2026-05-21 18:49:30,557 - Expanding community 169
+[INFO] 2026-05-21 18:49:30,588 - Expanding community 170
+[INFO] 2026-05-21 18:49:30,618 - Expanding community 171
+[INFO] 2026-05-21 18:49:30,652 - Expanding community 172
+[INFO] 2026-05-21 18:49:30,684 - Expanding community 173
+[INFO] 2026-05-21 18:49:30,714 - Expanding community 174
+[INFO] 2026-05-21 18:49:30,746 - Expanding community 175
+[INFO] 2026-05-21 18:49:30,779 - Expanding community 176
+[INFO] 2026-05-21 18:49:30,810 - Expanding community 177
+[INFO] 2026-05-21 18:49:30,844 - Expanding community 178
+[INFO] 2026-05-21 18:49:30,874 - Expanding community 179
+[INFO] 2026-05-21 18:49:30,905 - Expanding community 180
+[INFO] 2026-05-21 18:49:30,936 - Expanding community 181
+[INFO] 2026-05-21 18:49:30,968 - Expanding community 182
+[INFO] 2026-05-21 18:49:30,999 - Expanding community 183
+[INFO] 2026-05-21 18:49:31,033 - Expanding community 184
+[INFO] 2026-05-21 18:49:31,066 - Expanding community 185
+[INFO] 2026-05-21 18:49:31,100 - Expanding community 186
+[INFO] 2026-05-21 18:49:31,135 - Expanding community 187
+[INFO] 2026-05-21 18:49:31,170 - Expanding community 188
+[INFO] 2026-05-21 18:49:31,207 - Expanding community 189
+[INFO] 2026-05-21 18:49:31,242 - Expanding community 190
+[INFO] 2026-05-21 18:49:31,277 - Expanding community 191
+[INFO] 2026-05-21 18:49:31,314 - Expanding community 192
+[INFO] 2026-05-21 18:49:31,351 - Expanding community 193
+[INFO] 2026-05-21 18:49:31,388 - Expanding community 194
+[INFO] 2026-05-21 18:49:31,424 - Expanding community 195
+[INFO] 2026-05-21 18:49:31,456 - Expanding community 196
+[INFO] 2026-05-21 18:49:31,491 - Expanding community 197
+[INFO] 2026-05-21 18:49:31,524 - Expanding community 198
+[INFO] 2026-05-21 18:49:31,560 - Expanding community 199
+[INFO] 2026-05-21 18:49:31,595 - Expanding community 200
+[INFO] 2026-05-21 18:49:31,631 - Expanding community 201
+[INFO] 2026-05-21 18:49:31,679 - [RUNTIME] 58.32s
+[INFO] 2026-05-21 18:49:31,680 - 
+========== EVALUATION ==========
+[INFO] 2026-05-21 18:49:58,275 - [EVAL] Modularity=-0.0070
+[INFO] 2026-05-21 18:49:58,276 - [EVAL] Surprise=0.0000
+[INFO] 2026-05-21 18:49:58,276 - [EVAL] Keyword coherence=0.4907
+[INFO] 2026-05-21 18:49:58,276 - [EVAL] Community stats={'num_communities': 202, 'avg_size': np.float64(69.12871287128714), 'max_size': np.int64(854), 'min_size': np.int64(2)}
+[INFO] 2026-05-21 18:49:58,279 - [NMI DEBUG] matched_nodes=82
+[INFO] 2026-05-21 18:49:58,282 - [NMI] 0.3574
+[INFO] 2026-05-21 18:49:58,283 - Saved results to results/dblp_results.json
+[INFO] 2026-05-21 18:49:58,292 - Saved communities to results/dblp_communities.json
+[INFO] 2026-05-21 18:49:58,292 - Generating visualization...

@@ -1,0 +1,48 @@
+[INFO] 2026-05-21 15:31:09,230 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-21 15:31:09,264 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-21 15:31:09,275 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-21 15:31:09,286 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-21 15:31:09,378 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-21 15:31:09,468 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-21 15:31:09,487 - 
+========== Building P-A-P ==========
+[INFO] 2026-05-21 15:31:09,501 - P-A-P matrix shape=(14376, 14376)
+[INFO] 2026-05-21 15:31:11,207 - P-A-P nodes=13774 edges=215663 total_weight=497692.0000
+[INFO] 2026-05-21 15:31:11,207 - 
+========== Building P-T-P ==========
+[INFO] 2026-05-21 15:31:12,678 - P-T-P matrix shape=(14376, 14376)
+[INFO] 2026-05-21 15:31:29,488 - P-T-P nodes=4672 edges=14219 total_weight=147202.0000
+[INFO] 2026-05-21 15:31:29,488 - 
+========== Building P-C-P ==========
+[INFO] 2026-05-21 15:31:29,805 - P-C-P matrix shape=(14376, 14376)
+[INFO] 2026-05-21 15:31:33,620 - P-C-P nodes=0 edges=0 total_weight=0.0000
+[INFO] 2026-05-21 15:31:33,636 - Running community detection on P-A-P
+[INFO] 2026-05-21 15:31:39,815 - P-A-P communities=437
+[INFO] 2026-05-21 15:31:39,817 - Running community detection on P-T-P
+[INFO] 2026-05-21 15:31:41,084 - P-T-P communities=354
+[INFO] 2026-05-21 15:31:41,085 - Running community detection on P-C-P
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'bayanpy', 'graph_tool', 'leidenalg', 'wurlitzer', 'infomap'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'wurlitzer', 'infomap', 'leidenalg'}
+[INFO] Dataset dir: /root/autodl-tmp/Hete_MASSE/datasets/DBLP
+
+========== LOADING DBLP ==========
+Authors: 14475
+Papers: 14376
+Conferences: 20
+Terms: 8920
+Paper-Author edges: 83588
+Paper-Conference edges: 28752
+Paper-Term edges: 229248
+
+Total edges: 341588
+Traceback (most recent call last):
+  File "/root/autodl-tmp/Hete_MASSE/experiments/run_dblp.py", line 117, in <module>
+    seed_comms = detect_seed_communities(
+  File "/root/autodl-tmp/Hete_MASSE/core/consensus.py", line 32, in detect_seed_communities
+    comms = algorithms.louvain(
+  File "/root/miniconda3/envs/hetemasse/lib/python3.10/site-packages/cdlib/algorithms/crisp_partition.py", line 564, in louvain
+    return NodeClustering(
+  File "/root/miniconda3/envs/hetemasse/lib/python3.10/site-packages/cdlib/classes/node_clustering.py", line 38, in __init__
+    self.node_coverage = node_count / graph.number_of_nodes()
+ZeroDivisionError: division by zero

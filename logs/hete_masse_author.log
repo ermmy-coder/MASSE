@@ -1,0 +1,102 @@
+[INFO] 2026-05-22 18:16:11,375 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-22 18:16:11,397 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-22 18:16:11,405 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-22 18:16:11,412 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-22 18:16:11,465 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-22 18:16:11,515 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-22 18:16:11,531 - 
+========== Building A-P-A ==========
+[INFO] 2026-05-22 18:16:11,535 - A-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 18:16:11,596 - A-P-A nodes=5264 edges=8789 total_weight=51362.0000
+[INFO] 2026-05-22 18:16:11,597 - 
+========== Building A-P-T-P-A ==========
+[INFO] 2026-05-22 18:16:19,797 - A-P-T-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 18:23:27,649 - A-P-T-P-A nodes=14475 edges=63406282 total_weight=235980581.4644
+[INFO] 2026-05-22 18:23:27,661 - 
+========== Building A-P-C-P-A ==========
+[INFO] 2026-05-22 18:23:29,550 - A-P-C-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 18:23:50,149 - A-P-C-P-A nodes=14380 edges=1191844 total_weight=19193234.0000
+[INFO] 2026-05-22 18:23:50,262 - Running community detection on A-P-A
+[INFO] 2026-05-22 18:23:56,008 - A-P-A communities=639
+[INFO] 2026-05-22 18:23:56,024 - Running community detection on A-P-T-P-A
+[INFO] 2026-05-22 19:01:16,744 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-22 19:01:16,767 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-22 19:01:16,775 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-22 19:01:16,781 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-22 19:01:16,835 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-22 19:01:16,894 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-22 19:01:16,910 - 
+========== Building A-P-A ==========
+[INFO] 2026-05-22 19:01:16,913 - A-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 19:01:16,974 - A-P-A nodes=5264 edges=8789 total_weight=51362.0000
+[INFO] 2026-05-22 19:01:16,976 - 
+========== Building A-P-T-P-A ==========
+[INFO] 2026-05-22 19:01:25,599 - A-P-T-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 19:02:09,079 - A-P-T-P-A nodes=13857 edges=2994431 total_weight=100701823.3337
+[INFO] 2026-05-22 19:02:09,086 - 
+========== Building A-P-C-P-A ==========
+[INFO] 2026-05-22 19:02:11,063 - A-P-C-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 19:02:25,989 - A-P-C-P-A nodes=14380 edges=1191844 total_weight=19193234.0000
+[INFO] 2026-05-22 19:02:26,115 - Running community detection on A-P-A
+[INFO] 2026-05-22 19:02:26,544 - A-P-A communities=639
+[INFO] 2026-05-22 19:02:26,563 - Running community detection on A-P-T-P-A
+[INFO] 2026-05-22 19:03:33,078 - A-P-T-P-A communities=3
+[INFO] 2026-05-22 19:03:33,099 - Running community detection on A-P-C-P-A
+[INFO] 2026-05-22 19:03:54,902 - A-P-C-P-A communities=4
+[INFO] 2026-05-22 19:03:57,309 - Candidate edges=3422897
+[INFO] 2026-05-22 19:03:57,959 - Processed 100000/3422897 candidate edges
+[INFO] 2026-05-22 19:03:58,560 - Processed 200000/3422897 candidate edges
+[INFO] 2026-05-22 19:03:59,155 - Processed 300000/3422897 candidate edges
+[INFO] 2026-05-22 19:03:59,753 - Processed 400000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:00,351 - Processed 500000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:00,909 - Processed 600000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:01,467 - Processed 700000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:02,071 - Processed 800000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:02,647 - Processed 900000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:03,226 - Processed 1000000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:03,839 - Processed 1100000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:04,419 - Processed 1200000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:05,016 - Processed 1300000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:05,616 - Processed 1400000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:06,185 - Processed 1500000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:06,720 - Processed 1600000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:07,244 - Processed 1700000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:07,774 - Processed 1800000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:08,342 - Processed 1900000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:08,889 - Processed 2000000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:09,419 - Processed 2100000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:09,952 - Processed 2200000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:10,513 - Processed 2300000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:11,051 - Processed 2400000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:11,588 - Processed 2500000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:12,115 - Processed 2600000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:12,657 - Processed 2700000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:13,208 - Processed 2800000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:13,753 - Processed 2900000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:14,304 - Processed 3000000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:14,861 - Processed 3100000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:15,410 - Processed 3200000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:15,952 - Processed 3300000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:16,498 - Processed 3400000/3422897 candidate edges
+[INFO] 2026-05-22 19:04:16,636 - Consensus graph nodes=14465 edges=2706300
+[INFO] 2026-05-22 19:04:16,637 - Running Louvain on consensus graph
+[INFO] 2026-05-22 19:04:59,635 - Seed communities=3
+[INFO] 2026-05-22 19:05:00,299 - Expanding community 0
+[DEBUG] 2026-05-22 19:05:04,167 - [EXPANSION] paper sorted scores=[('p7745', 18), ('p595690', 17), ('p7746', 16), ('p275255', 16), ('p275258', 14), ('p554317', 13), ('p554155', 12), ('p554457', 12), ('p8031', 11), ('p11744', 11)]
+[DEBUG] 2026-05-22 19:05:04,192 - [EXPANSION] conference sorted scores=[('c2180', 1337), ('c3594', 1277), ('c1798', 1266), ('c36', 1218), ('c3329', 1202), ('c3318', 1114), ('c2504', 721), ('c597', 630), ('c1801', 478), ('c1902', 474)]
+[DEBUG] 2026-05-22 19:05:12,259 - [EXPANSION] term sorted scores=[('t19', 3634), ('t4', 2759), ('t63', 2606), ('t35', 2348), ('t45', 2246), ('t461', 1591), ('t1', 1544), ('t38', 991), ('t112', 922), ('t55', 914)]
+[INFO] 2026-05-22 19:05:12,261 - Expanding community 1
+[DEBUG] 2026-05-22 19:05:12,643 - [EXPANSION] paper sorted scores=[('p356670', 12), ('p358620', 12), ('p8706', 7), ('p86565', 7), ('p86567', 7), ('p162538', 7), ('p360475', 7), ('p552278', 7), ('p554943', 7), ('p596700', 7)]
+[DEBUG] 2026-05-22 19:05:12,655 - [EXPANSION] conference sorted scores=[('c2180', 1257), ('c36', 1182), ('c1798', 1081), ('c3594', 1070), ('c3329', 1025), ('c3318', 1016), ('c2504', 613), ('c597', 560), ('c1902', 557), ('c1801', 410)]
+[DEBUG] 2026-05-22 19:05:16,445 - [EXPANSION] term sorted scores=[('t19', 3325), ('t4', 2588), ('t63', 2352), ('t35', 2128), ('t45', 2104), ('t1', 1480), ('t461', 1376), ('t38', 882), ('t55', 854), ('t112', 842)]
+[INFO] 2026-05-22 19:05:16,447 - Expanding community 2
+[DEBUG] 2026-05-22 19:05:16,469 - [EXPANSION] paper sorted scores=[('p11590', 2), ('p359505', 2), ('p360708', 2), ('p361045', 2), ('p7848', 1), ('p8578', 1), ('p8931', 1), ('p10352', 1), ('p11004', 1), ('p11358', 1)]
+[DEBUG] 2026-05-22 19:05:16,471 - [EXPANSION] conference sorted scores=[('c2180', 24), ('c36', 11), ('c3329', 6), ('c3027', 3), ('c3594', 3), ('c1798', 2), ('c2504', 2), ('c1902', 1), ('c3011', 1), ('c597', 0)]
+[DEBUG] 2026-05-22 19:05:16,491 - [EXPANSION] term sorted scores=[('t4', 14), ('t19', 14), ('t35', 13), ('t45', 10), ('t55', 8), ('t1', 7), ('t1336', 7), ('t63', 6), ('t81', 6), ('t39', 5)]
+[INFO] 2026-05-22 19:10:55,432 - [EVAL] Modularity=-0.0076
+[INFO] 2026-05-22 19:10:55,432 - [EVAL] Surprise=0.0000
+[INFO] 2026-05-22 19:10:55,432 - [EVAL] Keyword coherence=0.0000
+[INFO] 2026-05-22 19:10:55,432 - [EVAL] Community stats={'num_communities': 3, 'avg_size': np.float64(4821.666666666667), 'max_size': np.int64(11905), 'min_size': np.int64(16)}
+[INFO] 2026-05-22 19:10:55,438 - [NMI DEBUG] matched_nodes=4057
+[INFO] 2026-05-22 19:10:55,443 - [NMI] 0.0079
+[INFO] 2026-05-22 19:10:55,450 - Saved communities...

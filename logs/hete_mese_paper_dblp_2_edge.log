@@ -1,0 +1,187 @@
+[INFO] 2026-05-23 00:05:23,603 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-23 00:05:23,626 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-23 00:05:23,633 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-23 00:05:23,640 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-23 00:05:23,693 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-23 00:05:23,745 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-23 00:05:23,760 - 
+========== Building P-A-P ==========
+[INFO] 2026-05-23 00:05:23,768 - P-A-P matrix shape=(14376, 14376)
+[INFO] 2026-05-23 00:05:24,823 - P-A-P nodes=13774 edges=215663 total_weight=497692.0000
+[INFO] 2026-05-23 00:05:24,828 - 
+========== Building P-T-P ==========
+[INFO] 2026-05-23 00:05:26,137 - P-T-P matrix shape=(14376, 14376)
+[INFO] 2026-05-23 00:05:40,903 - P-T-P nodes=4672 edges=14219 total_weight=147202.0000
+[INFO] 2026-05-23 00:05:40,905 - 
+========== Building P-C-P ==========
+[INFO] 2026-05-23 00:05:41,200 - P-C-P matrix shape=(14376, 14376)
+[INFO] 2026-05-23 00:06:26,162 - P-C-P nodes=14376 edges=8232454 total_weight=16464908.0000
+[INFO] 2026-05-23 00:06:26,742 - Running community detection on P-A-P
+[INFO] 2026-05-23 00:06:32,599 - P-A-P communities=437
+[INFO] 2026-05-23 00:06:32,603 - Running community detection on P-T-P
+[INFO] 2026-05-23 00:06:33,243 - P-T-P communities=358
+[INFO] 2026-05-23 00:06:33,253 - Running community detection on P-C-P
+[INFO] 2026-05-23 00:07:58,273 - P-C-P communities=20
+[INFO] 2026-05-23 00:08:02,929 - Candidate edges=8406726
+[INFO] 2026-05-23 00:08:03,724 - Processed 100000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:04,467 - Processed 200000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:05,173 - Processed 300000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:05,834 - Processed 400000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:06,521 - Processed 500000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:07,210 - Processed 600000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:07,873 - Processed 700000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:08,536 - Processed 800000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:09,207 - Processed 900000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:09,869 - Processed 1000000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:10,540 - Processed 1100000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:11,197 - Processed 1200000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:11,843 - Processed 1300000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:12,488 - Processed 1400000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:13,138 - Processed 1500000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:13,792 - Processed 1600000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:14,451 - Processed 1700000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:15,084 - Processed 1800000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:15,724 - Processed 1900000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:16,366 - Processed 2000000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:17,010 - Processed 2100000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:17,668 - Processed 2200000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:18,289 - Processed 2300000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:18,898 - Processed 2400000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:19,543 - Processed 2500000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:20,159 - Processed 2600000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:20,778 - Processed 2700000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:21,432 - Processed 2800000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:22,071 - Processed 2900000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:22,692 - Processed 3000000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:23,319 - Processed 3100000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:23,965 - Processed 3200000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:24,599 - Processed 3300000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:25,226 - Processed 3400000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:25,865 - Processed 3500000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:26,513 - Processed 3600000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:27,194 - Processed 3700000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:27,898 - Processed 3800000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:28,572 - Processed 3900000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:29,259 - Processed 4000000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:29,970 - Processed 4100000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:30,661 - Processed 4200000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:31,357 - Processed 4300000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:32,028 - Processed 4400000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:32,699 - Processed 4500000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:33,387 - Processed 4600000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:34,060 - Processed 4700000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:34,737 - Processed 4800000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:35,412 - Processed 4900000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:36,077 - Processed 5000000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:36,748 - Processed 5100000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:37,369 - Processed 5200000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:37,979 - Processed 5300000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:38,597 - Processed 5400000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:39,208 - Processed 5500000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:39,820 - Processed 5600000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:40,443 - Processed 5700000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:41,074 - Processed 5800000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:41,698 - Processed 5900000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:42,319 - Processed 6000000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:42,950 - Processed 6100000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:43,596 - Processed 6200000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:44,247 - Processed 6300000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:44,921 - Processed 6400000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:45,578 - Processed 6500000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:46,222 - Processed 6600000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:46,866 - Processed 6700000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:47,546 - Processed 6800000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:48,200 - Processed 6900000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:48,867 - Processed 7000000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:49,597 - Processed 7100000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:50,340 - Processed 7200000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:51,064 - Processed 7300000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:51,771 - Processed 7400000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:52,481 - Processed 7500000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:53,206 - Processed 7600000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:53,985 - Processed 7700000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:54,718 - Processed 7800000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:55,460 - Processed 7900000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:56,228 - Processed 8000000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:56,964 - Processed 8100000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:57,707 - Processed 8200000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:58,455 - Processed 8300000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:59,218 - Processed 8400000/8406726 candidate edges
+[INFO] 2026-05-23 00:08:59,272 - Consensus graph nodes=14376 edges=8383915
+[INFO] 2026-05-23 00:08:59,272 - Running Louvain on consensus graph
+[INFO] 2026-05-23 00:11:04,085 - Seed communities=17
+[INFO] 2026-05-23 00:11:05,763 - Expanding community 0
+[DEBUG] 2026-05-23 00:11:05,929 - [EXPANSION] author sorted scores=[('a15468', 20), ('a15710', 19), ('a16284', 15), ('a4473', 14), ('a4927', 14), ('a15305', 14), ('a15475', 14), ('a15201', 13), ('a15310', 12), ('a15588', 12)]
+[DEBUG] 2026-05-23 00:11:05,942 - [EXPANSION] conference sorted scores=[('c2180', 1823), ('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0)]
+[DEBUG] 2026-05-23 00:11:07,109 - [EXPANSION] term sorted scores=[('t4', 502), ('t63', 483), ('t19', 480), ('t45', 389), ('t35', 371), ('t1', 283), ('t55', 170), ('t12', 160), ('t38', 138), ('t10', 136)]
+[INFO] 2026-05-23 00:11:07,110 - Expanding community 1
+[DEBUG] 2026-05-23 00:11:07,287 - [EXPANSION] author sorted scores=[('a4473', 26), ('a15481', 22), ('a4561', 19), ('a4927', 18), ('a4472', 15), ('a16641', 15), ('a15468', 14), ('a17424', 13), ('a15493', 12), ('a15710', 11)]
+[DEBUG] 2026-05-23 00:11:07,291 - [EXPANSION] conference sorted scores=[('c36', 1598), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-23 00:11:08,220 - [EXPANSION] term sorted scores=[('t19', 436), ('t4', 383), ('t63', 371), ('t35', 321), ('t45', 296), ('t1', 233), ('t12', 171), ('t38', 150), ('t55', 145), ('t10', 129)]
+[INFO] 2026-05-23 00:11:08,221 - Expanding community 2
+[DEBUG] 2026-05-23 00:11:08,377 - [EXPANSION] author sorted scores=[('a19922', 35), ('a12269', 26), ('a113162', 26), ('a113755', 25), ('a37276', 24), ('a19926', 21), ('a33995', 20), ('a87481', 20), ('a13452', 18), ('a33519', 18)]
+[DEBUG] 2026-05-23 00:11:08,382 - [EXPANSION] conference sorted scores=[('c3594', 1474), ('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0)]
+[DEBUG] 2026-05-23 00:11:09,311 - [EXPANSION] term sorted scores=[('t19', 455), ('t63', 379), ('t4', 347), ('t461', 333), ('t35', 327), ('t45', 293), ('t1', 265), ('t512', 211), ('t54', 144), ('t112', 127)]
+[INFO] 2026-05-23 00:11:09,312 - Expanding community 3
+[DEBUG] 2026-05-23 00:11:09,472 - [EXPANSION] author sorted scores=[('a19926', 34), ('a16696', 31), ('a33520', 27), ('a113162', 26), ('a113688', 25), ('a7277', 23), ('a33521', 23), ('a19922', 22), ('a35663', 21), ('a37276', 21)]
+[DEBUG] 2026-05-23 00:11:09,477 - [EXPANSION] conference sorted scores=[('c1798', 1424), ('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-23 00:11:10,419 - [EXPANSION] term sorted scores=[('t19', 470), ('t35', 350), ('t63', 300), ('t4', 290), ('t461', 289), ('t45', 258), ('t1', 170), ('t512', 154), ('t54', 138), ('t375', 138)]
+[INFO] 2026-05-23 00:11:10,420 - Expanding community 4
+[DEBUG] 2026-05-23 00:11:10,558 - [EXPANSION] author sorted scores=[('a15946', 62), ('a26577', 25), ('a39389', 20), ('a113748', 20), ('a52890', 19), ('a16564', 18), ('a35663', 18), ('a20146', 17), ('a24026', 17), ('a27514', 17)]
+[DEBUG] 2026-05-23 00:11:10,562 - [EXPANSION] conference sorted scores=[('c3318', 1377), ('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0)]
+[DEBUG] 2026-05-23 00:11:11,411 - [EXPANSION] term sorted scores=[('t19', 453), ('t468', 414), ('t4', 351), ('t63', 343), ('t235', 281), ('t45', 265), ('t35', 227), ('t1', 225), ('t81', 155), ('t38', 140)]
+[INFO] 2026-05-23 00:11:11,412 - Expanding community 5
+[DEBUG] 2026-05-23 00:11:11,580 - [EXPANSION] author sorted scores=[('a12269', 36), ('a113162', 33), ('a37276', 29), ('a19922', 26), ('a19926', 26), ('a82135', 25), ('a87481', 21), ('a33933', 19), ('a34108', 19), ('a82524', 19)]
+[DEBUG] 2026-05-23 00:11:11,585 - [EXPANSION] conference sorted scores=[('c3329', 1356), ('c4096', 1), ('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0)]
+[DEBUG] 2026-05-23 00:11:12,465 - [EXPANSION] term sorted scores=[('t19', 393), ('t63', 339), ('t35', 292), ('t4', 276), ('t45', 272), ('t461', 247), ('t512', 190), ('t1', 181), ('t358', 127), ('t375', 123)]
+[INFO] 2026-05-23 00:11:12,466 - Expanding community 6
+[DEBUG] 2026-05-23 00:11:12,573 - [EXPANSION] author sorted scores=[('a19926', 31), ('a113755', 25), ('a16696', 20), ('a8754', 18), ('a18041', 17), ('a78964', 15), ('a85913', 15), ('a18074', 14), ('a19617', 13), ('a34422', 13)]
+[DEBUG] 2026-05-23 00:11:12,577 - [EXPANSION] conference sorted scores=[('c2504', 796), ('c4096', 1), ('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0)]
+[DEBUG] 2026-05-23 00:11:13,081 - [EXPANSION] term sorted scores=[('t19', 260), ('t452', 206), ('t461', 204), ('t4', 185), ('t45', 157), ('t63', 148), ('t35', 146), ('t1', 85), ('t81', 77), ('t226', 65)]
+[INFO] 2026-05-23 00:11:13,082 - Expanding community 7
+[DEBUG] 2026-05-23 00:11:13,187 - [EXPANSION] author sorted scores=[('a16696', 34), ('a19926', 26), ('a16695', 20), ('a7277', 19), ('a15481', 19), ('a35465', 18), ('a32693', 16), ('a19014', 15), ('a20146', 15), ('a2588', 14)]
+[DEBUG] 2026-05-23 00:11:13,190 - [EXPANSION] conference sorted scores=[('c1801', 525), ('c3230', 246), ('c4096', 3), ('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0)]
+[DEBUG] 2026-05-23 00:11:13,650 - [EXPANSION] term sorted scores=[('t19', 242), ('t452', 184), ('t4', 179), ('t461', 172), ('t63', 135), ('t226', 114), ('t35', 110), ('t45', 110), ('t38', 84), ('t81', 81)]
+[INFO] 2026-05-23 00:11:13,651 - Expanding community 8
+[DEBUG] 2026-05-23 00:11:13,751 - [EXPANSION] author sorted scores=[('a19627', 17), ('a15946', 16), ('a9485', 13), ('a16696', 12), ('a35663', 11), ('a26577', 10), ('a35666', 9), ('a113743', 9), ('a19926', 8), ('a28826', 8)]
+[DEBUG] 2026-05-23 00:11:13,754 - [EXPANSION] conference sorted scores=[('c597', 725), ('c4096', 2), ('c36', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0)]
+[DEBUG] 2026-05-23 00:11:14,194 - [EXPANSION] term sorted scores=[('t19', 253), ('t35', 165), ('t63', 162), ('t4', 147), ('t45', 140), ('t461', 88), ('t1', 84), ('t235', 77), ('t38', 75), ('t468', 73)]
+[INFO] 2026-05-23 00:11:14,195 - Expanding community 9
+[DEBUG] 2026-05-23 00:11:14,287 - [EXPANSION] author sorted scores=[('a10752', 20), ('a18505', 16), ('a19926', 13), ('a39839', 13), ('a19622', 12), ('a35465', 12), ('a113807', 12), ('a4225', 9), ('a19446', 9), ('a33519', 9)]
+[DEBUG] 2026-05-23 00:11:14,290 - [EXPANSION] conference sorted scores=[('c2934', 370), ('c3011', 287), ('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0)]
+[DEBUG] 2026-05-23 00:11:14,510 - [EXPANSION] term sorted scores=[('t19', 219), ('t4', 177), ('t452', 155), ('t461', 150), ('t63', 136), ('t35', 118), ('t45', 96), ('t38', 81), ('t226', 75), ('t81', 73)]
+[INFO] 2026-05-23 00:11:14,510 - Expanding community 10
+[DEBUG] 2026-05-23 00:11:14,600 - [EXPANSION] author sorted scores=[('a15807', 20), ('a124231', 18), ('a15787', 15), ('a17468', 14), ('a35875', 14), ('a17530', 13), ('a18057', 13), ('a15493', 12), ('a4489', 11), ('a19758', 11)]
+[DEBUG] 2026-05-23 00:11:14,602 - [EXPANSION] conference sorted scores=[('c1902', 635), ('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c2180', 0)]
+[DEBUG] 2026-05-23 00:11:14,799 - [EXPANSION] term sorted scores=[('t12', 259), ('t19', 179), ('t4', 135), ('t45', 115), ('t35', 88), ('t63', 80), ('t10', 72), ('t81', 63), ('t1', 62), ('t55', 51)]
+[INFO] 2026-05-23 00:11:14,799 - Expanding community 11
+[DEBUG] 2026-05-23 00:11:14,854 - [EXPANSION] author sorted scores=[('a97600', 29), ('a38722', 26), ('a6982', 16), ('a16849', 16), ('a19592', 16), ('a85853', 16), ('a16682', 15), ('a16681', 14), ('a33501', 14), ('a65896', 14)]
+[DEBUG] 2026-05-23 00:11:14,856 - [EXPANSION] conference sorted scores=[('c3027', 457), ('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0)]
+[DEBUG] 2026-05-23 00:11:14,980 - [EXPANSION] term sorted scores=[('t4', 145), ('t45', 114), ('t19', 103), ('t1', 79), ('t35', 78), ('t542', 61), ('t63', 57), ('t461', 55), ('t112', 48), ('t375', 45)]
+[INFO] 2026-05-23 00:11:14,981 - Expanding community 12
+[DEBUG] 2026-05-23 00:11:15,034 - [EXPANSION] author sorted scores=[('a12317', 10), ('a39389', 10), ('a16985', 9), ('a17383', 9), ('a16850', 8), ('a20146', 8), ('a6330', 7), ('a20365', 7), ('a59174', 6), ('a3293', 5)]
+[DEBUG] 2026-05-23 00:11:15,036 - [EXPANSION] conference sorted scores=[('c3771', 343), ('c4096', 4), ('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0)]
+[DEBUG] 2026-05-23 00:11:15,193 - [EXPANSION] term sorted scores=[('t109', 136), ('t19', 105), ('t4', 84), ('t45', 65), ('t458', 61), ('t1', 59), ('t63', 57), ('t35', 47), ('t112', 45), ('t38', 38)]
+[INFO] 2026-05-23 00:11:15,194 - Expanding community 13
+[DEBUG] 2026-05-23 00:11:15,239 - [EXPANSION] author sorted scores=[('a19922', 10), ('a35465', 8), ('a7731', 5), ('a13452', 5), ('a16696', 5), ('a19627', 5), ('a34558', 5), ('a34606', 5), ('a113755', 5), ('a6976', 4)]
+[DEBUG] 2026-05-23 00:11:15,241 - [EXPANSION] conference sorted scores=[('c1234', 300), ('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-23 00:11:15,372 - [EXPANSION] term sorted scores=[('t19', 96), ('t4', 76), ('t63', 72), ('t35', 64), ('t45', 55), ('t1', 49), ('t461', 48), ('t54', 30), ('t512', 30), ('t542', 29)]
+[INFO] 2026-05-23 00:11:15,373 - Expanding community 14
+[DEBUG] 2026-05-23 00:11:15,409 - [EXPANSION] author sorted scores=[('a934', 26), ('a435', 21), ('a20881', 10), ('a48008', 10), ('a226', 8), ('a18660', 8), ('a448', 7), ('a19623', 7), ('a1313', 6), ('a18837', 6)]
+[DEBUG] 2026-05-23 00:11:15,410 - [EXPANSION] conference sorted scores=[('c755', 229), ('c36', 0), ('c597', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-23 00:11:15,519 - [EXPANSION] term sorted scores=[('t45', 69), ('t19', 65), ('t4', 47), ('t63', 46), ('t428', 36), ('t81', 32), ('t55', 27), ('t35', 26), ('t53', 25), ('t492', 24)]
+[INFO] 2026-05-23 00:11:15,520 - Expanding community 15
+[DEBUG] 2026-05-23 00:11:15,555 - [EXPANSION] author sorted scores=[('a27110', 15), ('a25739', 10), ('a16319', 8), ('a114480', 8), ('a26908', 7), ('a113748', 7), ('a4137', 6), ('a26394', 6), ('a35429', 6), ('a52178', 6)]
+[DEBUG] 2026-05-23 00:11:15,557 - [EXPANSION] conference sorted scores=[('c1194', 207), ('c36', 0), ('c597', 0), ('c755', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-23 00:11:15,657 - [EXPANSION] term sorted scores=[('t19', 83), ('t4', 65), ('t468', 62), ('t63', 49), ('t35', 44), ('t45', 37), ('t458', 35), ('t1', 33), ('t235', 29), ('t109', 28)]
+[INFO] 2026-05-23 00:11:15,658 - Expanding community 16
+[DEBUG] 2026-05-23 00:11:15,693 - [EXPANSION] author sorted scores=[('a22275', 7), ('a17838', 6), ('a20265', 6), ('a18125', 5), ('a19793', 5), ('a74739', 5), ('a17894', 4), ('a19129', 4), ('a35875', 4), ('a38894', 4)]
+[DEBUG] 2026-05-23 00:11:15,694 - [EXPANSION] conference sorted scores=[('c1201', 193), ('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-23 00:11:15,789 - [EXPANSION] term sorted scores=[('t12', 61), ('t19', 57), ('t4', 44), ('t45', 37), ('t35', 32), ('t63', 27), ('t10', 23), ('t1', 21), ('t38', 21), ('t81', 17)]
+[INFO] 2026-05-23 00:12:11,992 - [EVAL] Modularity=-0.0203
+[INFO] 2026-05-23 00:12:11,992 - [EVAL] Surprise=0.0000
+[INFO] 2026-05-23 00:12:11,992 - [EVAL] Keyword coherence=0.3857
+[INFO] 2026-05-23 00:12:11,992 - [EVAL] Community stats={'num_communities': 17, 'avg_size': np.float64(845.6470588235294), 'max_size': np.int64(1823), 'min_size': np.int64(193)}
+[INFO] 2026-05-23 00:12:11,995 - [NMI DEBUG] matched_nodes=100
+[INFO] 2026-05-23 00:12:11,998 - [NMI] 0.5006
+[INFO] 2026-05-23 00:12:12,005 - Saved communities...

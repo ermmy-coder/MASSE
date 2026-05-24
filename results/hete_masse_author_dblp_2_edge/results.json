@@ -1,0 +1,12 @@
+{
+    "method": "Hete_MASSE",
+    "modularity": -0.004286457049152305,
+    "nmi": 0.7844512294078003,
+    "runtime": 77.92852568626404,
+    "statistics": {
+        "num_communities": 4,
+        "avg_size": 3595.0,
+        "max_size": "4881",
+        "min_size": "2288"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "exp_name": "hete_masse_author_2_edge_weight_fix_0_1",
+    "dataset": "DBLP",
+    "center_type": "author",
+    "meta_paths": {
+        "A-P-A": 1.0,
+        "A-P-C-P-A": 0.1
+    },
+    "thresholds": {
+        "A-P-A": 2,
+        "A-P-C-P-A": 10
+    },
+    "consensus": {
+        "min_agree": 1,
+        "normalize": "agree_only"
+    },
+    "expansion": {
+        "stable": true
+    }
+}

@@ -1,0 +1,24 @@
+[INFO] 2026-05-22 21:12:02,181 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-22 21:12:02,206 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-22 21:12:02,213 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-22 21:12:02,221 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-22 21:12:02,280 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-22 21:12:02,333 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-22 21:12:02,348 - 
+========== Building A-P-A ==========
+[INFO] 2026-05-22 21:12:02,351 - A-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 21:12:02,410 - A-P-A nodes=5264 edges=8789 total_weight=51362.0000
+[INFO] 2026-05-22 21:12:02,412 - 
+========== Building A-P-C-P-A ==========
+[INFO] 2026-05-22 21:12:04,155 - A-P-C-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 21:12:12,494 - A-P-C-P-A nodes=5689 edges=92426 total_weight=6194038.0000
+[INFO] 2026-05-22 21:12:12,537 - Running community detection on A-P-A
+[INFO] 2026-05-22 21:12:12,932 - A-P-A communities=637
+[INFO] 2026-05-22 21:12:12,935 - Running community detection on A-P-C-P-A
+[INFO] 2026-05-22 21:12:14,388 - A-P-C-P-A communities=5
+[INFO] 2026-05-22 21:12:14,440 - Candidate edges=99516
+[INFO] 2026-05-22 21:12:14,812 - Consensus graph nodes=6933 edges=80493
+[INFO] 2026-05-22 21:12:14,812 - Running Louvain on consensus graph
+[INFO] 2026-05-22 21:12:16,047 - Seed communities=114
+[INFO] 2026-05-22 21:12:16,380 - Expanding community 0
+[INFO] 2026-05-22 21:12:17,499 - Expanding community 1

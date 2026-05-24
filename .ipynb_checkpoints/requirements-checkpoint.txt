@@ -1,0 +1,8 @@
+numpy
+networkx
+scipy
+matplotlib
+cdlib
+python-louvain
+scikit-learn
+pyyaml

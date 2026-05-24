@@ -1,0 +1,17 @@
+[INFO] 2026-05-23 00:04:29,595 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-23 00:04:29,615 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-23 00:04:29,622 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-23 00:04:29,628 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-23 00:04:29,681 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-23 00:04:29,732 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-23 00:04:29,748 - 
+========== Building P-A-P ==========
+[INFO] 2026-05-23 00:04:29,756 - P-A-P matrix shape=(14376, 14376)
+[INFO] 2026-05-23 00:04:30,864 - P-A-P nodes=13774 edges=215663 total_weight=497692.0000
+[INFO] 2026-05-23 00:04:30,870 - 
+========== Building P-T-P ==========
+[INFO] 2026-05-23 00:04:32,094 - P-T-P matrix shape=(14376, 14376)
+[INFO] 2026-05-23 00:04:45,751 - P-T-P nodes=4672 edges=14219 total_weight=147202.0000
+[INFO] 2026-05-23 00:04:45,753 - 
+========== Building P-C-P ==========
+[INFO] 2026-05-23 00:04:46,048 - P-C-P matrix shape=(14376, 14376)

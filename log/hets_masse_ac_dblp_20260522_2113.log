@@ -1,0 +1,40 @@
+[INFO] 2026-05-22 21:13:30,748 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-22 21:13:30,771 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-22 21:13:30,778 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-22 21:13:30,784 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-22 21:13:30,837 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-22 21:13:30,893 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-22 21:13:30,908 - 
+========== Building A-P-A ==========
+[INFO] 2026-05-22 21:13:30,912 - A-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 21:13:30,971 - A-P-A nodes=5264 edges=8789 total_weight=51362.0000
+[INFO] 2026-05-22 21:13:30,972 - 
+========== Building A-P-C-P-A ==========
+[INFO] 2026-05-22 21:13:32,664 - A-P-C-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 21:13:40,093 - A-P-C-P-A nodes=41 edges=135 total_weight=120352.0000
+[INFO] 2026-05-22 21:13:40,128 - Running community detection on A-P-A
+[INFO] 2026-05-22 21:13:40,539 - A-P-A communities=640
+[INFO] 2026-05-22 21:13:40,540 - Running community detection on A-P-C-P-A
+[INFO] 2026-05-22 21:13:40,543 - A-P-C-P-A communities=3
+[INFO] 2026-05-22 21:13:40,549 - Candidate edges=8901
+[INFO] 2026-05-22 21:13:40,589 - Consensus graph nodes=5264 edges=8257
+[INFO] 2026-05-22 21:13:40,589 - Running Louvain on consensus graph
+[INFO] 2026-05-22 21:13:41,136 - Seed communities=672
+[INFO] 2026-05-22 21:13:41,400 - Expanding community 0
+[INFO] 2026-05-22 21:13:41,674 - Expanding community 1
+[INFO] 2026-05-22 21:13:41,868 - Expanding community 2
+[INFO] 2026-05-22 21:13:42,059 - Expanding community 3
+[INFO] 2026-05-22 21:13:42,195 - Expanding community 4
+[INFO] 2026-05-22 21:13:42,318 - Expanding community 5
+[INFO] 2026-05-22 21:13:42,416 - Expanding community 6
+[INFO] 2026-05-22 21:13:42,496 - Expanding community 7
+[INFO] 2026-05-22 21:13:42,569 - Expanding community 8
+[INFO] 2026-05-22 21:13:42,658 - Expanding community 9
+[INFO] 2026-05-22 21:13:42,739 - Expanding community 10
+[INFO] 2026-05-22 21:13:42,818 - Expanding community 11
+[INFO] 2026-05-22 21:13:42,899 - Expanding community 12
+[INFO] 2026-05-22 21:13:42,988 - Expanding community 13
+[INFO] 2026-05-22 21:13:43,061 - Expanding community 14
+[INFO] 2026-05-22 21:13:43,146 - Expanding community 15
+[INFO] 2026-05-22 21:13:43,228 - Expanding community 16
+[INFO] 2026-05-22 21:13:43,299 - Expanding community 17

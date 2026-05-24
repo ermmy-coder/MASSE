@@ -1,0 +1,77 @@
+[INFO] 2026-05-22 16:13:56,754 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-22 16:13:56,775 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-22 16:13:56,781 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-22 16:13:56,788 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-22 16:13:56,840 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-22 16:13:56,892 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-22 16:13:56,907 - 
+========== Building A-P-A ==========
+[INFO] 2026-05-22 16:13:56,910 - A-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 16:13:57,111 - A-P-A nodes=14036 edges=40269 total_weight=114322.0000
+[INFO] 2026-05-22 16:13:57,116 - 
+========== Building A-P-C-P-A ==========
+[INFO] 2026-05-22 16:13:58,785 - A-P-C-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 16:14:13,395 - A-P-C-P-A nodes=14380 edges=1191844 total_weight=19193234.0000
+[INFO] 2026-05-22 16:14:13,547 - Running community detection on A-P-A
+[INFO] 2026-05-22 16:14:15,378 - A-P-A communities=612
+[INFO] 2026-05-22 16:14:15,386 - Running community detection on A-P-C-P-A
+[INFO] 2026-05-22 16:14:37,741 - A-P-C-P-A communities=4
+[INFO] 2026-05-22 16:14:38,339 - Candidate edges=1220532
+[INFO] 2026-05-22 16:14:38,817 - Processed 100000/1220532 candidate edges
+[INFO] 2026-05-22 16:14:39,236 - Processed 200000/1220532 candidate edges
+[INFO] 2026-05-22 16:14:39,658 - Processed 300000/1220532 candidate edges
+[INFO] 2026-05-22 16:14:40,078 - Processed 400000/1220532 candidate edges
+[INFO] 2026-05-22 16:14:40,496 - Processed 500000/1220532 candidate edges
+[INFO] 2026-05-22 16:14:40,921 - Processed 600000/1220532 candidate edges
+[INFO] 2026-05-22 16:14:41,347 - Processed 700000/1220532 candidate edges
+[INFO] 2026-05-22 16:14:41,770 - Processed 800000/1220532 candidate edges
+[INFO] 2026-05-22 16:14:42,195 - Processed 900000/1220532 candidate edges
+[INFO] 2026-05-22 16:14:42,619 - Processed 1000000/1220532 candidate edges
+[INFO] 2026-05-22 16:14:43,043 - Processed 1100000/1220532 candidate edges
+[INFO] 2026-05-22 16:14:43,470 - Processed 1200000/1220532 candidate edges
+[INFO] 2026-05-22 16:14:43,564 - Consensus graph nodes=14475 edges=1041292
+[INFO] 2026-05-22 16:14:43,564 - Running Louvain on consensus graph
+[INFO] 2026-05-22 16:15:04,567 - Seed communities=5
+[INFO] 2026-05-22 16:15:06,298 - Expanding community 0
+[INFO] 2026-05-22 16:15:08,440 - Expanding community 1
+[INFO] 2026-05-22 16:15:10,510 - Expanding community 2
+[INFO] 2026-05-22 16:15:11,241 - Expanding community 3
+[INFO] 2026-05-22 16:15:11,863 - Expanding community 4
+[INFO] 2026-05-22 16:15:11,900 - [RUNTIME] 75.30s
+[INFO] 2026-05-22 16:15:11,900 - 
+========== EVALUATION ==========
+[INFO] 2026-05-22 16:17:25,869 - [EVAL] Modularity=-0.0043
+[INFO] 2026-05-22 16:17:25,870 - [EVAL] Surprise=0.0000
+[INFO] 2026-05-22 16:17:25,870 - [EVAL] Keyword coherence=0.0000
+[INFO] 2026-05-22 16:17:25,870 - [EVAL] Community stats={'num_communities': 5, 'avg_size': np.float64(2895.0), 'max_size': np.int64(4840), 'min_size': np.int64(2)}
+[INFO] 2026-05-22 16:17:25,876 - [NMI DEBUG] matched_nodes=4057
+[INFO] 2026-05-22 16:17:25,880 - [NMI] 0.7845
+[INFO] 2026-05-22 16:17:25,881 - Saved results to results/dblp_ac_apcpa_results.json
+[INFO] 2026-05-22 16:17:25,887 - Saved communities to results/dblp_ac_apcpa_communities.json
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'wurlitzer', 'leidenalg', 'bayanpy', 'infomap', 'graph_tool'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'leidenalg', 'infomap', 'wurlitzer'}
+[INFO] Dataset dir: /root/autodl-tmp/Hete_MASSE/datasets/DBLP
+
+========== LOADING DBLP ==========
+Authors: 14475
+Papers: 14376
+Conferences: 20
+Terms: 8920
+Paper-Author edges: 83588
+Paper-Conference edges: 28752
+Paper-Term edges: 229248
+
+Total edges: 341588
+
+
+============================================================
+FINAL RESULTS
+============================================================
+modularity: -0.004294370841656003
+surprise: 0
+keyword_coherence: 0
+nmi: 0.7844512294078003
+runtime_seconds: 75.30357527732849
+community_statistics: {'num_communities': 5, 'avg_size': np.float64(2895.0), 'max_size': np.int64(4840), 'min_size': np.int64(2)}
+============================================================

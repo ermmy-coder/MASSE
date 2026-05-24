@@ -1,0 +1,654 @@
+[INFO] 2026-05-22 12:59:29,721 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-22 12:59:29,742 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-22 12:59:29,749 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-22 12:59:29,755 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-22 12:59:29,807 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-22 12:59:29,859 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-22 12:59:29,874 - 
+========== Building A-P-A ==========
+[INFO] 2026-05-22 12:59:29,877 - A-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 13:00:23,807 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-22 13:00:23,842 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-22 13:00:23,853 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-22 13:00:23,864 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-22 13:00:23,953 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-22 13:00:24,042 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-22 13:00:24,060 - 
+========== Building A-P-A ==========
+[INFO] 2026-05-22 13:00:24,066 - A-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 13:00:24,312 - A-P-A nodes=14036 edges=40269 total_weight=114322.0000
+[INFO] 2026-05-22 13:00:24,317 - 
+========== Building A-P-T-P-A ==========
+[INFO] 2026-05-22 13:00:32,918 - A-P-T-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 13:02:30,725 - A-P-T-P-A nodes=14402 edges=16393282 total_weight=178472334.6543
+[INFO] 2026-05-22 13:02:30,733 - 
+========== Building A-P-C-P-A ==========
+[INFO] 2026-05-22 13:02:32,538 - A-P-C-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 13:03:38,093 - A-P-C-P-A nodes=14475 edges=10022712 total_weight=39161427.9981
+[INFO] 2026-05-22 13:03:38,809 - Running community detection on A-P-A
+[INFO] 2026-05-22 13:03:41,098 - A-P-A communities=617
+[INFO] 2026-05-22 13:03:41,133 - Running community detection on A-P-T-P-A
+[INFO] 2026-05-22 13:15:13,438 - A-P-T-P-A communities=5
+[INFO] 2026-05-22 13:15:13,476 - Running community detection on A-P-C-P-A
+[INFO] 2026-05-22 13:18:37,334 - A-P-C-P-A communities=4
+[INFO] 2026-05-22 13:18:52,977 - Candidate edges=21277153
+[INFO] 2026-05-22 13:18:53,598 - Processed 100000/21277153 candidate edges
+[INFO] 2026-05-22 13:18:54,159 - Processed 200000/21277153 candidate edges
+[INFO] 2026-05-22 13:18:54,714 - Processed 300000/21277153 candidate edges
+[INFO] 2026-05-22 13:18:55,247 - Processed 400000/21277153 candidate edges
+[INFO] 2026-05-22 13:18:55,771 - Processed 500000/21277153 candidate edges
+[INFO] 2026-05-22 13:18:56,297 - Processed 600000/21277153 candidate edges
+[INFO] 2026-05-22 13:18:56,823 - Processed 700000/21277153 candidate edges
+[INFO] 2026-05-22 13:18:57,333 - Processed 800000/21277153 candidate edges
+[INFO] 2026-05-22 13:18:57,844 - Processed 900000/21277153 candidate edges
+[INFO] 2026-05-22 13:18:58,356 - Processed 1000000/21277153 candidate edges
+[INFO] 2026-05-22 13:18:58,873 - Processed 1100000/21277153 candidate edges
+[INFO] 2026-05-22 13:18:59,372 - Processed 1200000/21277153 candidate edges
+[INFO] 2026-05-22 13:18:59,865 - Processed 1300000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:00,358 - Processed 1400000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:00,900 - Processed 1500000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:01,434 - Processed 1600000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:01,962 - Processed 1700000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:02,505 - Processed 1800000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:03,069 - Processed 1900000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:03,633 - Processed 2000000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:04,191 - Processed 2100000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:04,723 - Processed 2200000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:05,258 - Processed 2300000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:05,785 - Processed 2400000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:06,329 - Processed 2500000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:06,867 - Processed 2600000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:07,408 - Processed 2700000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:07,923 - Processed 2800000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:08,464 - Processed 2900000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:09,019 - Processed 3000000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:09,551 - Processed 3100000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:10,085 - Processed 3200000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:10,605 - Processed 3300000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:11,133 - Processed 3400000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:11,644 - Processed 3500000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:12,158 - Processed 3600000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:12,671 - Processed 3700000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:13,211 - Processed 3800000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:13,731 - Processed 3900000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:14,246 - Processed 4000000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:14,776 - Processed 4100000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:15,298 - Processed 4200000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:15,816 - Processed 4300000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:16,329 - Processed 4400000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:16,845 - Processed 4500000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:17,373 - Processed 4600000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:17,888 - Processed 4700000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:18,398 - Processed 4800000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:18,912 - Processed 4900000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:19,431 - Processed 5000000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:19,949 - Processed 5100000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:20,475 - Processed 5200000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:21,013 - Processed 5300000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:21,554 - Processed 5400000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:22,101 - Processed 5500000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:22,627 - Processed 5600000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:23,159 - Processed 5700000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:23,709 - Processed 5800000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:24,253 - Processed 5900000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:24,798 - Processed 6000000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:25,350 - Processed 6100000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:25,891 - Processed 6200000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:26,436 - Processed 6300000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:26,986 - Processed 6400000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:27,514 - Processed 6500000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:28,067 - Processed 6600000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:28,590 - Processed 6700000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:29,111 - Processed 6800000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:29,634 - Processed 6900000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:30,190 - Processed 7000000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:30,732 - Processed 7100000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:31,280 - Processed 7200000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:31,808 - Processed 7300000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:32,343 - Processed 7400000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:32,885 - Processed 7500000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:33,417 - Processed 7600000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:33,951 - Processed 7700000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:34,496 - Processed 7800000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:34,995 - Processed 7900000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:35,488 - Processed 8000000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:35,983 - Processed 8100000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:36,494 - Processed 8200000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:36,982 - Processed 8300000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:37,465 - Processed 8400000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:37,952 - Processed 8500000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:38,444 - Processed 8600000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:38,934 - Processed 8700000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:39,416 - Processed 8800000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:39,898 - Processed 8900000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:40,380 - Processed 9000000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:40,867 - Processed 9100000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:41,352 - Processed 9200000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:41,838 - Processed 9300000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:42,326 - Processed 9400000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:42,830 - Processed 9500000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:43,322 - Processed 9600000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:43,817 - Processed 9700000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:44,309 - Processed 9800000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:44,817 - Processed 9900000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:45,317 - Processed 10000000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:45,815 - Processed 10100000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:46,316 - Processed 10200000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:46,879 - Processed 10300000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:47,420 - Processed 10400000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:47,958 - Processed 10500000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:48,494 - Processed 10600000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:49,045 - Processed 10700000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:49,579 - Processed 10800000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:50,123 - Processed 10900000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:50,650 - Processed 11000000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:51,205 - Processed 11100000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:51,741 - Processed 11200000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:52,265 - Processed 11300000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:52,799 - Processed 11400000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:53,348 - Processed 11500000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:53,886 - Processed 11600000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:54,413 - Processed 11700000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:54,956 - Processed 11800000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:55,514 - Processed 11900000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:56,048 - Processed 12000000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:56,575 - Processed 12100000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:57,082 - Processed 12200000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:57,582 - Processed 12300000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:58,077 - Processed 12400000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:58,572 - Processed 12500000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:59,067 - Processed 12600000/21277153 candidate edges
+[INFO] 2026-05-22 13:19:59,571 - Processed 12700000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:00,070 - Processed 12800000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:00,570 - Processed 12900000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:01,069 - Processed 13000000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:01,607 - Processed 13100000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:02,108 - Processed 13200000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:02,595 - Processed 13300000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:03,079 - Processed 13400000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:03,623 - Processed 13500000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:04,177 - Processed 13600000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:04,686 - Processed 13700000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:05,189 - Processed 13800000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:05,692 - Processed 13900000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:06,202 - Processed 14000000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:06,697 - Processed 14100000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:07,203 - Processed 14200000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:07,696 - Processed 14300000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:08,203 - Processed 14400000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:08,723 - Processed 14500000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:09,263 - Processed 14600000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:09,816 - Processed 14700000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:10,356 - Processed 14800000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:10,888 - Processed 14900000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:11,410 - Processed 15000000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:11,929 - Processed 15100000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:12,445 - Processed 15200000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:12,968 - Processed 15300000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:13,509 - Processed 15400000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:14,061 - Processed 15500000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:14,614 - Processed 15600000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:15,167 - Processed 15700000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:15,695 - Processed 15800000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:16,248 - Processed 15900000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:16,789 - Processed 16000000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:17,302 - Processed 16100000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:17,814 - Processed 16200000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:18,342 - Processed 16300000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:18,846 - Processed 16400000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:19,332 - Processed 16500000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:19,809 - Processed 16600000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:20,290 - Processed 16700000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:20,787 - Processed 16800000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:21,270 - Processed 16900000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:21,748 - Processed 17000000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:22,229 - Processed 17100000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:22,717 - Processed 17200000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:23,199 - Processed 17300000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:23,673 - Processed 17400000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:24,153 - Processed 17500000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:24,640 - Processed 17600000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:25,129 - Processed 17700000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:25,616 - Processed 17800000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:26,115 - Processed 17900000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:26,624 - Processed 18000000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:27,133 - Processed 18100000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:27,634 - Processed 18200000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:28,125 - Processed 18300000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:28,628 - Processed 18400000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:29,141 - Processed 18500000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:29,648 - Processed 18600000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:30,154 - Processed 18700000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:30,661 - Processed 18800000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:31,269 - Processed 18900000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:31,823 - Processed 19000000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:32,349 - Processed 19100000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:32,880 - Processed 19200000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:33,433 - Processed 19300000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:33,968 - Processed 19400000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:34,519 - Processed 19500000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:35,051 - Processed 19600000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:35,583 - Processed 19700000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:36,106 - Processed 19800000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:36,642 - Processed 19900000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:37,190 - Processed 20000000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:37,726 - Processed 20100000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:38,264 - Processed 20200000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:38,840 - Processed 20300000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:39,393 - Processed 20400000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:39,935 - Processed 20500000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:40,470 - Processed 20600000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:41,005 - Processed 20700000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:41,520 - Processed 20800000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:42,026 - Processed 20900000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:42,533 - Processed 21000000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:43,036 - Processed 21100000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:43,546 - Processed 21200000/21277153 candidate edges
+[INFO] 2026-05-22 13:20:43,944 - Consensus graph nodes=14475 edges=12230914
+[INFO] 2026-05-22 13:20:43,944 - Running Louvain on consensus graph
+[INFO] 2026-05-22 13:24:03,104 - Seed communities=4
+[INFO] 2026-05-22 13:24:23,220 - Expanding community 0
+[DEBUG] 2026-05-22 13:24:24,533 - [EXPANSION] author sorted scores=[('a76', 0), ('a124', 0), ('a192', 0), ('a226', 0), ('a234', 0), ('a250', 0), ('a310', 0), ('a325', 0), ('a337', 0), ('a377', 0)]
+[DEBUG] 2026-05-22 13:24:24,536 - [EXPANSION] conference sorted scores=[('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-22 13:24:25,332 - [EXPANSION] term sorted scores=[('t1', 0), ('t2', 0), ('t3', 0), ('t4', 0), ('t5', 0), ('t6', 0), ('t7', 0), ('t8', 0), ('t9', 0), ('t10', 0)]
+[INFO] 2026-05-22 13:24:25,333 - Expanding community 1
+[DEBUG] 2026-05-22 13:24:25,820 - [EXPANSION] author sorted scores=[('a76', 0), ('a124', 0), ('a192', 0), ('a226', 0), ('a234', 0), ('a250', 0), ('a310', 0), ('a325', 0), ('a337', 0), ('a377', 0)]
+[DEBUG] 2026-05-22 13:24:25,823 - [EXPANSION] conference sorted scores=[('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-22 13:24:26,131 - [EXPANSION] term sorted scores=[('t1', 0), ('t2', 0), ('t3', 0), ('t4', 0), ('t5', 0), ('t6', 0), ('t7', 0), ('t8', 0), ('t9', 0), ('t10', 0)]
+[INFO] 2026-05-22 13:24:26,131 - Expanding community 2
+[DEBUG] 2026-05-22 13:24:26,620 - [EXPANSION] author sorted scores=[('a76', 0), ('a124', 0), ('a192', 0), ('a226', 0), ('a234', 0), ('a250', 0), ('a310', 0), ('a325', 0), ('a337', 0), ('a377', 0)]
+[DEBUG] 2026-05-22 13:24:26,623 - [EXPANSION] conference sorted scores=[('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-22 13:24:26,921 - [EXPANSION] term sorted scores=[('t1', 0), ('t2', 0), ('t3', 0), ('t4', 0), ('t5', 0), ('t6', 0), ('t7', 0), ('t8', 0), ('t9', 0), ('t10', 0)]
+[INFO] 2026-05-22 13:24:26,922 - Expanding community 3
+[DEBUG] 2026-05-22 13:24:27,354 - [EXPANSION] author sorted scores=[('a76', 0), ('a124', 0), ('a192', 0), ('a226', 0), ('a234', 0), ('a250', 0), ('a310', 0), ('a325', 0), ('a337', 0), ('a377', 0)]
+[DEBUG] 2026-05-22 13:24:27,356 - [EXPANSION] conference sorted scores=[('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-22 13:24:27,642 - [EXPANSION] term sorted scores=[('t1', 0), ('t2', 0), ('t3', 0), ('t4', 0), ('t5', 0), ('t6', 0), ('t7', 0), ('t8', 0), ('t9', 0), ('t10', 0)]
+[INFO] 2026-05-22 13:24:27,658 - [RUNTIME] 1444.09s
+[INFO] 2026-05-22 13:24:27,658 - 
+========== EVALUATION ==========
+[INFO] 2026-05-22 13:26:32,875 - [EVAL] Modularity=-0.0038
+[INFO] 2026-05-22 13:26:32,875 - [EVAL] Surprise=0.0000
+[INFO] 2026-05-22 13:26:32,875 - [EVAL] Keyword coherence=0.0000
+[INFO] 2026-05-22 13:26:32,875 - [EVAL] Community stats={'num_communities': 4, 'avg_size': np.float64(3618.75), 'max_size': np.int64(4312), 'min_size': np.int64(3070)}
+[INFO] 2026-05-22 13:26:32,879 - [NMI DEBUG] matched_nodes=0
+[INFO] 2026-05-22 13:26:32,880 - Saved results to results/dblp_ac_results.json
+[INFO] 2026-05-22 13:26:32,885 - Saved communities to results/dblp_ac_communities.json
+[INFO] 2026-05-22 13:26:32,886 - Generating visualization...
+[INFO] 2026-05-22 14:27:34,497 - Visualization saved
+[INFO] 2026-05-22 14:45:21,943 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-22 14:45:21,964 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-22 14:45:21,970 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-22 14:45:21,977 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-22 14:45:22,030 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-22 14:45:22,080 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-22 14:45:22,095 - 
+========== Building A-P-A ==========
+[INFO] 2026-05-22 14:45:22,098 - A-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 14:45:22,299 - A-P-A nodes=14036 edges=40269 total_weight=114322.0000
+[INFO] 2026-05-22 14:45:22,303 - 
+========== Building A-P-T-P-A ==========
+[INFO] 2026-05-22 14:45:30,848 - A-P-T-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 14:46:13,828 - A-P-T-P-A nodes=13857 edges=2994431 total_weight=100701823.3337
+[INFO] 2026-05-22 14:46:13,835 - 
+========== Building A-P-C-P-A ==========
+[INFO] 2026-05-22 14:46:16,429 - A-P-C-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 14:46:31,404 - A-P-C-P-A nodes=14380 edges=1191844 total_weight=19193234.0000
+[INFO] 2026-05-22 14:46:31,525 - Running community detection on A-P-A
+[INFO] 2026-05-22 14:46:33,689 - A-P-A communities=612
+[INFO] 2026-05-22 14:46:33,700 - Running community detection on A-P-T-P-A
+[INFO] 2026-05-22 14:47:58,567 - A-P-T-P-A communities=3
+[INFO] 2026-05-22 14:47:58,585 - Running community detection on A-P-C-P-A
+[INFO] 2026-05-22 14:48:22,806 - A-P-C-P-A communities=4
+[INFO] 2026-05-22 14:48:25,142 - Candidate edges=3443652
+[INFO] 2026-05-22 14:48:27,758 - Processed 100000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:28,313 - Processed 200000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:28,854 - Processed 300000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:29,387 - Processed 400000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:29,920 - Processed 500000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:30,461 - Processed 600000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:31,010 - Processed 700000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:31,550 - Processed 800000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:32,100 - Processed 900000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:32,639 - Processed 1000000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:33,172 - Processed 1100000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:33,702 - Processed 1200000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:34,260 - Processed 1300000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:34,801 - Processed 1400000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:35,339 - Processed 1500000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:35,885 - Processed 1600000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:36,443 - Processed 1700000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:36,983 - Processed 1800000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:37,520 - Processed 1900000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:38,063 - Processed 2000000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:38,605 - Processed 2100000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:39,146 - Processed 2200000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:39,676 - Processed 2300000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:40,241 - Processed 2400000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:40,798 - Processed 2500000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:41,348 - Processed 2600000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:41,889 - Processed 2700000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:42,434 - Processed 2800000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:42,982 - Processed 2900000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:43,534 - Processed 3000000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:44,085 - Processed 3100000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:44,650 - Processed 3200000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:45,219 - Processed 3300000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:45,768 - Processed 3400000/3443652 candidate edges
+[INFO] 2026-05-22 14:48:46,016 - Consensus graph nodes=14475 edges=2728295
+[INFO] 2026-05-22 14:48:46,016 - Running Louvain on consensus graph
+[INFO] 2026-05-22 14:49:36,829 - Seed communities=4
+[INFO] 2026-05-22 14:49:37,571 - Expanding community 0
+[DEBUG] 2026-05-22 14:49:43,696 - [EXPANSION] author sorted scores=[('a76', 0), ('a124', 0), ('a192', 0), ('a226', 0), ('a234', 0), ('a250', 0), ('a310', 0), ('a325', 0), ('a337', 0), ('a377', 0)]
+[DEBUG] 2026-05-22 14:49:43,703 - [EXPANSION] conference sorted scores=[('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-22 14:49:45,923 - [EXPANSION] term sorted scores=[('t1', 0), ('t2', 0), ('t3', 0), ('t4', 0), ('t5', 0), ('t6', 0), ('t7', 0), ('t8', 0), ('t9', 0), ('t10', 0)]
+[INFO] 2026-05-22 14:49:45,924 - Expanding community 1
+[DEBUG] 2026-05-22 14:49:46,298 - [EXPANSION] author sorted scores=[('a76', 0), ('a124', 0), ('a192', 0), ('a226', 0), ('a234', 0), ('a250', 0), ('a310', 0), ('a325', 0), ('a337', 0), ('a377', 0)]
+[DEBUG] 2026-05-22 14:49:46,300 - [EXPANSION] conference sorted scores=[('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-22 14:49:46,540 - [EXPANSION] term sorted scores=[('t1', 0), ('t2', 0), ('t3', 0), ('t4', 0), ('t5', 0), ('t6', 0), ('t7', 0), ('t8', 0), ('t9', 0), ('t10', 0)]
+[INFO] 2026-05-22 14:49:46,540 - Expanding community 2
+[DEBUG] 2026-05-22 14:49:46,561 - [EXPANSION] author sorted scores=[('a76', 0), ('a124', 0), ('a192', 0), ('a226', 0), ('a234', 0), ('a250', 0), ('a310', 0), ('a325', 0), ('a337', 0), ('a377', 0)]
+[DEBUG] 2026-05-22 14:49:46,562 - [EXPANSION] conference sorted scores=[('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-22 14:49:46,575 - [EXPANSION] term sorted scores=[('t1', 0), ('t2', 0), ('t3', 0), ('t4', 0), ('t5', 0), ('t6', 0), ('t7', 0), ('t8', 0), ('t9', 0), ('t10', 0)]
+[INFO] 2026-05-22 14:49:46,575 - Expanding community 3
+[DEBUG] 2026-05-22 14:49:46,589 - [EXPANSION] author sorted scores=[('a76', 0), ('a124', 0), ('a192', 0), ('a226', 0), ('a234', 0), ('a250', 0), ('a310', 0), ('a325', 0), ('a337', 0), ('a377', 0)]
+[DEBUG] 2026-05-22 14:49:46,590 - [EXPANSION] conference sorted scores=[('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-22 14:49:46,598 - [EXPANSION] term sorted scores=[('t1', 0), ('t2', 0), ('t3', 0), ('t4', 0), ('t5', 0), ('t6', 0), ('t7', 0), ('t8', 0), ('t9', 0), ('t10', 0)]
+[INFO] 2026-05-22 14:49:46,608 - [RUNTIME] 264.83s
+[INFO] 2026-05-22 14:49:46,608 - 
+========== EVALUATION ==========
+[INFO] 2026-05-22 14:55:28,428 - [EVAL] Modularity=-0.0076
+[INFO] 2026-05-22 14:55:28,428 - [EVAL] Surprise=0.0000
+[INFO] 2026-05-22 14:55:28,428 - [EVAL] Keyword coherence=0.0000
+[INFO] 2026-05-22 14:55:28,428 - [EVAL] Community stats={'num_communities': 4, 'avg_size': np.float64(3618.75), 'max_size': np.int64(11963), 'min_size': np.int64(2)}
+[INFO] 2026-05-22 14:55:28,432 - [NMI DEBUG] matched_nodes=0
+[INFO] 2026-05-22 14:55:28,433 - Saved results to results/dblp_ac_results.json
+[INFO] 2026-05-22 14:55:28,440 - Saved communities to results/dblp_ac_communities.json
+[INFO] 2026-05-22 15:05:19,062 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-22 15:05:19,083 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-22 15:05:19,090 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-22 15:05:19,096 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-22 15:05:19,155 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-22 15:05:19,208 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-22 15:05:19,223 - 
+========== Building A-P-A ==========
+[INFO] 2026-05-22 15:05:19,227 - A-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 15:05:19,441 - A-P-A nodes=14036 edges=40269 total_weight=114322.0000
+[INFO] 2026-05-22 15:05:19,445 - 
+========== Building A-P-T-P-A ==========
+[INFO] 2026-05-22 15:05:27,632 - A-P-T-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 15:06:09,936 - A-P-T-P-A nodes=13857 edges=2994431 total_weight=100701823.3337
+[INFO] 2026-05-22 15:06:09,943 - 
+========== Building A-P-C-P-A ==========
+[INFO] 2026-05-22 15:06:11,711 - A-P-C-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 15:06:25,685 - A-P-C-P-A nodes=14380 edges=1191844 total_weight=19193234.0000
+[INFO] 2026-05-22 15:06:25,808 - Running community detection on A-P-A
+[INFO] 2026-05-22 15:06:28,091 - A-P-A communities=610
+[INFO] 2026-05-22 15:06:28,101 - Running community detection on A-P-T-P-A
+[INFO] 2026-05-22 15:07:31,879 - A-P-T-P-A communities=3
+[INFO] 2026-05-22 15:07:31,899 - Running community detection on A-P-C-P-A
+[INFO] 2026-05-22 15:07:52,113 - A-P-C-P-A communities=4
+[INFO] 2026-05-22 15:07:54,495 - Candidate edges=3443652
+[INFO] 2026-05-22 15:07:57,029 - Processed 100000/3443652 candidate edges
+[INFO] 2026-05-22 15:07:57,551 - Processed 200000/3443652 candidate edges
+[INFO] 2026-05-22 15:07:58,076 - Processed 300000/3443652 candidate edges
+[INFO] 2026-05-22 15:07:58,597 - Processed 400000/3443652 candidate edges
+[INFO] 2026-05-22 15:07:59,111 - Processed 500000/3443652 candidate edges
+[INFO] 2026-05-22 15:07:59,619 - Processed 600000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:00,122 - Processed 700000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:00,622 - Processed 800000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:01,129 - Processed 900000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:01,635 - Processed 1000000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:02,148 - Processed 1100000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:02,652 - Processed 1200000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:03,162 - Processed 1300000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:03,693 - Processed 1400000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:04,215 - Processed 1500000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:04,725 - Processed 1600000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:05,232 - Processed 1700000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:05,739 - Processed 1800000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:06,246 - Processed 1900000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:06,752 - Processed 2000000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:07,258 - Processed 2100000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:07,763 - Processed 2200000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:08,304 - Processed 2300000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:08,861 - Processed 2400000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:09,404 - Processed 2500000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:09,943 - Processed 2600000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:10,492 - Processed 2700000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:11,035 - Processed 2800000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:11,574 - Processed 2900000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:12,104 - Processed 3000000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:12,649 - Processed 3100000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:13,239 - Processed 3200000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:13,800 - Processed 3300000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:14,350 - Processed 3400000/3443652 candidate edges
+[INFO] 2026-05-22 15:08:14,601 - Consensus graph nodes=14475 edges=2728638
+[INFO] 2026-05-22 15:08:14,601 - Running Louvain on consensus graph
+[INFO] 2026-05-22 15:09:00,595 - Seed communities=5
+[INFO] 2026-05-22 15:09:01,328 - Expanding community 0
+[DEBUG] 2026-05-22 15:09:07,434 - [EXPANSION] author sorted scores=[('a76', 0), ('a124', 0), ('a192', 0), ('a226', 0), ('a234', 0), ('a250', 0), ('a310', 0), ('a325', 0), ('a337', 0), ('a377', 0)]
+[DEBUG] 2026-05-22 15:09:07,440 - [EXPANSION] conference sorted scores=[('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-22 15:09:09,646 - [EXPANSION] term sorted scores=[('t1', 0), ('t2', 0), ('t3', 0), ('t4', 0), ('t5', 0), ('t6', 0), ('t7', 0), ('t8', 0), ('t9', 0), ('t10', 0)]
+[INFO] 2026-05-22 15:09:09,647 - Expanding community 1
+[DEBUG] 2026-05-22 15:09:09,976 - [EXPANSION] author sorted scores=[('a76', 0), ('a124', 0), ('a192', 0), ('a226', 0), ('a234', 0), ('a250', 0), ('a310', 0), ('a325', 0), ('a337', 0), ('a377', 0)]
+[DEBUG] 2026-05-22 15:09:09,978 - [EXPANSION] conference sorted scores=[('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-22 15:09:10,207 - [EXPANSION] term sorted scores=[('t1', 0), ('t2', 0), ('t3', 0), ('t4', 0), ('t5', 0), ('t6', 0), ('t7', 0), ('t8', 0), ('t9', 0), ('t10', 0)]
+[INFO] 2026-05-22 15:09:10,208 - Expanding community 2
+[DEBUG] 2026-05-22 15:09:10,225 - [EXPANSION] author sorted scores=[('a76', 0), ('a124', 0), ('a192', 0), ('a226', 0), ('a234', 0), ('a250', 0), ('a310', 0), ('a325', 0), ('a337', 0), ('a377', 0)]
+[DEBUG] 2026-05-22 15:09:10,226 - [EXPANSION] conference sorted scores=[('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-22 15:09:10,237 - [EXPANSION] term sorted scores=[('t1', 0), ('t2', 0), ('t3', 0), ('t4', 0), ('t5', 0), ('t6', 0), ('t7', 0), ('t8', 0), ('t9', 0), ('t10', 0)]
+[INFO] 2026-05-22 15:09:10,237 - Expanding community 3
+[DEBUG] 2026-05-22 15:09:10,252 - [EXPANSION] author sorted scores=[('a76', 0), ('a124', 0), ('a192', 0), ('a226', 0), ('a234', 0), ('a250', 0), ('a310', 0), ('a325', 0), ('a337', 0), ('a377', 0)]
+[DEBUG] 2026-05-22 15:09:10,253 - [EXPANSION] conference sorted scores=[('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-22 15:09:10,261 - [EXPANSION] term sorted scores=[('t1', 0), ('t2', 0), ('t3', 0), ('t4', 0), ('t5', 0), ('t6', 0), ('t7', 0), ('t8', 0), ('t9', 0), ('t10', 0)]
+[INFO] 2026-05-22 15:09:10,262 - Expanding community 4
+[DEBUG] 2026-05-22 15:09:10,275 - [EXPANSION] author sorted scores=[('a76', 0), ('a124', 0), ('a192', 0), ('a226', 0), ('a234', 0), ('a250', 0), ('a310', 0), ('a325', 0), ('a337', 0), ('a377', 0)]
+[DEBUG] 2026-05-22 15:09:10,276 - [EXPANSION] conference sorted scores=[('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-22 15:09:10,283 - [EXPANSION] term sorted scores=[('t1', 0), ('t2', 0), ('t3', 0), ('t4', 0), ('t5', 0), ('t6', 0), ('t7', 0), ('t8', 0), ('t9', 0), ('t10', 0)]
+[INFO] 2026-05-22 15:09:10,294 - [RUNTIME] 231.43s
+[INFO] 2026-05-22 15:09:10,294 - 
+========== EVALUATION ==========
+[INFO] 2026-05-22 15:14:45,046 - [EVAL] Modularity=-0.0076
+[INFO] 2026-05-22 15:14:45,046 - [EVAL] Surprise=0.0000
+[INFO] 2026-05-22 15:14:45,046 - [EVAL] Keyword coherence=0.0000
+[INFO] 2026-05-22 15:14:45,046 - [EVAL] Community stats={'num_communities': 5, 'avg_size': np.float64(2895.0), 'max_size': np.int64(11947), 'min_size': np.int64(2)}
+[INFO] 2026-05-22 15:14:45,050 - [NMI DEBUG] matched_nodes=0
+[INFO] 2026-05-22 15:14:45,051 - Saved results to results/dblp_ac_results.json
+[INFO] 2026-05-22 15:14:45,058 - Saved communities to results/dblp_ac_communities.json
+[INFO] 2026-05-22 15:19:14,125 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-22 15:19:14,146 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-22 15:19:14,153 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-22 15:19:14,160 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-22 15:19:14,214 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-22 15:19:14,267 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-22 15:19:14,282 - 
+========== Building A-P-A ==========
+[INFO] 2026-05-22 15:19:14,285 - A-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 15:19:14,488 - A-P-A nodes=14036 edges=40269 total_weight=114322.0000
+[INFO] 2026-05-22 15:19:14,492 - 
+========== Building A-P-T-P-A ==========
+[INFO] 2026-05-22 15:19:22,872 - A-P-T-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 15:20:05,587 - A-P-T-P-A nodes=13857 edges=2994431 total_weight=100701823.3337
+[INFO] 2026-05-22 15:20:05,595 - 
+========== Building A-P-C-P-A ==========
+[INFO] 2026-05-22 15:20:07,448 - A-P-C-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 15:20:21,523 - A-P-C-P-A nodes=14380 edges=1191844 total_weight=19193234.0000
+[INFO] 2026-05-22 15:20:21,641 - Running community detection on A-P-A
+[INFO] 2026-05-22 15:20:23,595 - A-P-A communities=613
+[INFO] 2026-05-22 15:20:23,605 - Running community detection on A-P-T-P-A
+[INFO] 2026-05-22 15:21:28,411 - A-P-T-P-A communities=2
+[INFO] 2026-05-22 15:21:28,428 - Running community detection on A-P-C-P-A
+[INFO] 2026-05-22 15:21:50,773 - A-P-C-P-A communities=4
+[INFO] 2026-05-22 15:21:52,969 - Candidate edges=3443652
+[INFO] 2026-05-22 15:21:55,472 - Processed 100000/3443652 candidate edges
+[INFO] 2026-05-22 15:21:56,025 - Processed 200000/3443652 candidate edges
+[INFO] 2026-05-22 15:21:56,572 - Processed 300000/3443652 candidate edges
+[INFO] 2026-05-22 15:21:57,125 - Processed 400000/3443652 candidate edges
+[INFO] 2026-05-22 15:21:57,663 - Processed 500000/3443652 candidate edges
+[INFO] 2026-05-22 15:21:58,206 - Processed 600000/3443652 candidate edges
+[INFO] 2026-05-22 15:21:58,763 - Processed 700000/3443652 candidate edges
+[INFO] 2026-05-22 15:21:59,324 - Processed 800000/3443652 candidate edges
+[INFO] 2026-05-22 15:21:59,868 - Processed 900000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:00,401 - Processed 1000000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:00,933 - Processed 1100000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:01,473 - Processed 1200000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:02,001 - Processed 1300000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:02,534 - Processed 1400000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:03,064 - Processed 1500000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:03,633 - Processed 1600000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:04,193 - Processed 1700000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:04,746 - Processed 1800000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:05,300 - Processed 1900000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:05,868 - Processed 2000000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:06,436 - Processed 2100000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:06,977 - Processed 2200000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:07,534 - Processed 2300000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:08,073 - Processed 2400000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:08,639 - Processed 2500000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:09,209 - Processed 2600000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:09,772 - Processed 2700000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:10,333 - Processed 2800000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:10,891 - Processed 2900000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:11,455 - Processed 3000000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:12,029 - Processed 3100000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:12,577 - Processed 3200000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:13,162 - Processed 3300000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:13,744 - Processed 3400000/3443652 candidate edges
+[INFO] 2026-05-22 15:22:14,010 - Consensus graph nodes=14475 edges=2740045
+[INFO] 2026-05-22 15:22:14,010 - Running Louvain on consensus graph
+[INFO] 2026-05-22 15:22:56,073 - Seed communities=6
+[INFO] 2026-05-22 15:22:56,817 - Expanding community 0
+[DEBUG] 2026-05-22 15:23:02,838 - [EXPANSION] author sorted scores=[('a76', 0), ('a124', 0), ('a192', 0), ('a226', 0), ('a234', 0), ('a250', 0), ('a310', 0), ('a325', 0), ('a337', 0), ('a377', 0)]
+[DEBUG] 2026-05-22 15:23:02,846 - [EXPANSION] conference sorted scores=[('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-22 15:23:05,150 - [EXPANSION] term sorted scores=[('t1', 0), ('t2', 0), ('t3', 0), ('t4', 0), ('t5', 0), ('t6', 0), ('t7', 0), ('t8', 0), ('t9', 0), ('t10', 0)]
+[INFO] 2026-05-22 15:23:05,150 - Expanding community 1
+[DEBUG] 2026-05-22 15:23:05,520 - [EXPANSION] author sorted scores=[('a76', 0), ('a124', 0), ('a192', 0), ('a226', 0), ('a234', 0), ('a250', 0), ('a310', 0), ('a325', 0), ('a337', 0), ('a377', 0)]
+[DEBUG] 2026-05-22 15:23:05,523 - [EXPANSION] conference sorted scores=[('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-22 15:23:05,767 - [EXPANSION] term sorted scores=[('t1', 0), ('t2', 0), ('t3', 0), ('t4', 0), ('t5', 0), ('t6', 0), ('t7', 0), ('t8', 0), ('t9', 0), ('t10', 0)]
+[INFO] 2026-05-22 15:23:05,768 - Expanding community 2
+[DEBUG] 2026-05-22 15:23:05,789 - [EXPANSION] author sorted scores=[('a76', 0), ('a124', 0), ('a192', 0), ('a226', 0), ('a234', 0), ('a250', 0), ('a310', 0), ('a325', 0), ('a337', 0), ('a377', 0)]
+[DEBUG] 2026-05-22 15:23:05,790 - [EXPANSION] conference sorted scores=[('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-22 15:23:05,802 - [EXPANSION] term sorted scores=[('t1', 0), ('t2', 0), ('t3', 0), ('t4', 0), ('t5', 0), ('t6', 0), ('t7', 0), ('t8', 0), ('t9', 0), ('t10', 0)]
+[INFO] 2026-05-22 15:23:05,803 - Expanding community 3
+[DEBUG] 2026-05-22 15:23:05,821 - [EXPANSION] author sorted scores=[('a76', 0), ('a124', 0), ('a192', 0), ('a226', 0), ('a234', 0), ('a250', 0), ('a310', 0), ('a325', 0), ('a337', 0), ('a377', 0)]
+[DEBUG] 2026-05-22 15:23:05,822 - [EXPANSION] conference sorted scores=[('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-22 15:23:05,833 - [EXPANSION] term sorted scores=[('t1', 0), ('t2', 0), ('t3', 0), ('t4', 0), ('t5', 0), ('t6', 0), ('t7', 0), ('t8', 0), ('t9', 0), ('t10', 0)]
+[INFO] 2026-05-22 15:23:05,833 - Expanding community 4
+[DEBUG] 2026-05-22 15:23:05,849 - [EXPANSION] author sorted scores=[('a76', 0), ('a124', 0), ('a192', 0), ('a226', 0), ('a234', 0), ('a250', 0), ('a310', 0), ('a325', 0), ('a337', 0), ('a377', 0)]
+[DEBUG] 2026-05-22 15:23:05,850 - [EXPANSION] conference sorted scores=[('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-22 15:23:05,858 - [EXPANSION] term sorted scores=[('t1', 0), ('t2', 0), ('t3', 0), ('t4', 0), ('t5', 0), ('t6', 0), ('t7', 0), ('t8', 0), ('t9', 0), ('t10', 0)]
+[INFO] 2026-05-22 15:23:05,859 - Expanding community 5
+[DEBUG] 2026-05-22 15:23:05,873 - [EXPANSION] author sorted scores=[('a76', 0), ('a124', 0), ('a192', 0), ('a226', 0), ('a234', 0), ('a250', 0), ('a310', 0), ('a325', 0), ('a337', 0), ('a377', 0)]
+[DEBUG] 2026-05-22 15:23:05,874 - [EXPANSION] conference sorted scores=[('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-22 15:23:05,883 - [EXPANSION] term sorted scores=[('t1', 0), ('t2', 0), ('t3', 0), ('t4', 0), ('t5', 0), ('t6', 0), ('t7', 0), ('t8', 0), ('t9', 0), ('t10', 0)]
+[INFO] 2026-05-22 15:23:05,897 - [RUNTIME] 231.92s
+[INFO] 2026-05-22 15:23:05,897 - 
+========== EVALUATION ==========
+[INFO] 2026-05-22 15:28:38,640 - [EVAL] Modularity=-0.0076
+[INFO] 2026-05-22 15:28:38,640 - [EVAL] Surprise=0.0000
+[INFO] 2026-05-22 15:28:38,640 - [EVAL] Keyword coherence=0.0000
+[INFO] 2026-05-22 15:28:38,640 - [EVAL] Community stats={'num_communities': 6, 'avg_size': np.float64(2412.5), 'max_size': np.int64(11961), 'min_size': np.int64(2)}
+[INFO] 2026-05-22 15:28:38,645 - [NMI DEBUG] matched_nodes=0
+[INFO] 2026-05-22 15:28:38,645 - Saved results to results/dblp_ac_results.json
+[INFO] 2026-05-22 15:28:38,652 - Saved communities to results/dblp_ac_communities.json
+[INFO] 2026-05-22 15:39:43,045 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-22 15:39:43,067 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-22 15:39:43,074 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-22 15:39:43,080 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-22 15:39:43,135 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-22 15:39:43,187 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-22 15:39:43,202 - 
+========== Building A-P-A ==========
+[INFO] 2026-05-22 15:39:43,205 - A-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 15:39:43,407 - A-P-A nodes=14036 edges=40269 total_weight=114322.0000
+[INFO] 2026-05-22 15:39:43,411 - 
+========== Building A-P-T-P-A ==========
+[INFO] 2026-05-22 15:39:51,790 - A-P-T-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 15:40:33,951 - A-P-T-P-A nodes=13857 edges=2994431 total_weight=100701823.3337
+[INFO] 2026-05-22 15:40:33,961 - 
+========== Building A-P-C-P-A ==========
+[INFO] 2026-05-22 15:40:35,789 - A-P-C-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 15:40:49,841 - A-P-C-P-A nodes=14380 edges=1191844 total_weight=19193234.0000
+[INFO] 2026-05-22 15:40:49,959 - Running community detection on A-P-A
+[INFO] 2026-05-22 15:40:51,974 - A-P-A communities=614
+[INFO] 2026-05-22 15:40:51,984 - Running community detection on A-P-T-P-A
+[INFO] 2026-05-22 15:42:53,198 - A-P-T-P-A communities=2
+[INFO] 2026-05-22 15:42:53,216 - Running community detection on A-P-C-P-A
+[INFO] 2026-05-22 15:43:13,557 - A-P-C-P-A communities=4
+[INFO] 2026-05-22 15:43:15,911 - Candidate edges=3443652
+[INFO] 2026-05-22 15:43:18,522 - Processed 100000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:19,105 - Processed 200000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:19,636 - Processed 300000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:20,148 - Processed 400000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:20,653 - Processed 500000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:21,173 - Processed 600000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:21,678 - Processed 700000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:22,179 - Processed 800000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:22,680 - Processed 900000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:23,193 - Processed 1000000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:23,694 - Processed 1100000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:24,198 - Processed 1200000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:24,735 - Processed 1300000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:25,269 - Processed 1400000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:25,782 - Processed 1500000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:26,295 - Processed 1600000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:26,804 - Processed 1700000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:27,322 - Processed 1800000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:27,835 - Processed 1900000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:28,342 - Processed 2000000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:28,851 - Processed 2100000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:29,368 - Processed 2200000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:29,890 - Processed 2300000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:30,406 - Processed 2400000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:30,938 - Processed 2500000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:31,495 - Processed 2600000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:32,050 - Processed 2700000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:32,600 - Processed 2800000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:33,147 - Processed 2900000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:33,712 - Processed 3000000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:34,263 - Processed 3100000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:34,810 - Processed 3200000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:35,392 - Processed 3300000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:35,968 - Processed 3400000/3443652 candidate edges
+[INFO] 2026-05-22 15:43:36,234 - Consensus graph nodes=14475 edges=2739946
+[INFO] 2026-05-22 15:43:36,234 - Running Louvain on consensus graph
+[INFO] 2026-05-22 15:44:17,690 - Seed communities=4
+[INFO] 2026-05-22 15:44:18,439 - Expanding community 0
+[DEBUG] 2026-05-22 15:44:24,722 - [EXPANSION] author sorted scores=[('a76', 0), ('a124', 0), ('a192', 0), ('a226', 0), ('a234', 0), ('a250', 0), ('a310', 0), ('a325', 0), ('a337', 0), ('a377', 0)]
+[DEBUG] 2026-05-22 15:44:24,729 - [EXPANSION] conference sorted scores=[('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-22 15:44:27,146 - [EXPANSION] term sorted scores=[('t1', 0), ('t2', 0), ('t3', 0), ('t4', 0), ('t5', 0), ('t6', 0), ('t7', 0), ('t8', 0), ('t9', 0), ('t10', 0)]
+[INFO] 2026-05-22 15:44:27,147 - Expanding community 1
+[DEBUG] 2026-05-22 15:44:27,487 - [EXPANSION] author sorted scores=[('a76', 0), ('a124', 0), ('a192', 0), ('a226', 0), ('a234', 0), ('a250', 0), ('a310', 0), ('a325', 0), ('a337', 0), ('a377', 0)]
+[DEBUG] 2026-05-22 15:44:27,489 - [EXPANSION] conference sorted scores=[('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-22 15:44:27,706 - [EXPANSION] term sorted scores=[('t1', 0), ('t2', 0), ('t3', 0), ('t4', 0), ('t5', 0), ('t6', 0), ('t7', 0), ('t8', 0), ('t9', 0), ('t10', 0)]
+[INFO] 2026-05-22 15:44:27,708 - Expanding community 2
+[DEBUG] 2026-05-22 15:44:27,733 - [EXPANSION] author sorted scores=[('a76', 0), ('a124', 0), ('a192', 0), ('a226', 0), ('a234', 0), ('a250', 0), ('a310', 0), ('a325', 0), ('a337', 0), ('a377', 0)]
+[DEBUG] 2026-05-22 15:44:27,734 - [EXPANSION] conference sorted scores=[('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-22 15:44:27,749 - [EXPANSION] term sorted scores=[('t1', 0), ('t2', 0), ('t3', 0), ('t4', 0), ('t5', 0), ('t6', 0), ('t7', 0), ('t8', 0), ('t9', 0), ('t10', 0)]
+[INFO] 2026-05-22 15:44:27,750 - Expanding community 3
+[DEBUG] 2026-05-22 15:44:27,765 - [EXPANSION] author sorted scores=[('a76', 0), ('a124', 0), ('a192', 0), ('a226', 0), ('a234', 0), ('a250', 0), ('a310', 0), ('a325', 0), ('a337', 0), ('a377', 0)]
+[DEBUG] 2026-05-22 15:44:27,766 - [EXPANSION] conference sorted scores=[('c36', 0), ('c597', 0), ('c755', 0), ('c1194', 0), ('c1201', 0), ('c1234', 0), ('c1798', 0), ('c1801', 0), ('c1902', 0), ('c2180', 0)]
+[DEBUG] 2026-05-22 15:44:27,774 - [EXPANSION] term sorted scores=[('t1', 0), ('t2', 0), ('t3', 0), ('t4', 0), ('t5', 0), ('t6', 0), ('t7', 0), ('t8', 0), ('t9', 0), ('t10', 0)]
+[INFO] 2026-05-22 15:44:27,785 - [RUNTIME] 284.89s
+[INFO] 2026-05-22 15:44:27,785 - 
+========== EVALUATION ==========
+[INFO] 2026-05-22 15:49:56,790 - [EVAL] Modularity=-0.0076
+[INFO] 2026-05-22 15:49:56,790 - [EVAL] Surprise=0.0000
+[INFO] 2026-05-22 15:49:56,790 - [EVAL] Keyword coherence=0.0000
+[INFO] 2026-05-22 15:49:56,790 - [EVAL] Community stats={'num_communities': 4, 'avg_size': np.float64(3618.75), 'max_size': np.int64(11951), 'min_size': np.int64(2)}
+[INFO] 2026-05-22 15:49:56,796 - [NMI DEBUG] matched_nodes=4057
+[INFO] 2026-05-22 15:49:56,801 - [NMI] 0.0052
+[INFO] 2026-05-22 15:49:56,802 - Saved results to results/dblp_ac_results.json
+[INFO] 2026-05-22 15:49:56,808 - Saved communities to results/dblp_ac_communities.json
+[INFO] 2026-05-22 16:12:27,455 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-22 16:12:27,477 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-22 16:12:27,483 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-22 16:12:27,491 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-22 16:12:27,543 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-22 16:12:27,595 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-22 16:12:27,610 - 
+========== Building A-P-A ==========
+[INFO] 2026-05-22 16:12:27,614 - A-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 16:12:27,816 - A-P-A nodes=14036 edges=40269 total_weight=114322.0000
+[INFO] 2026-05-22 16:12:27,820 - 
+========== Building A-P-C-P-A ==========

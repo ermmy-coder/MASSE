@@ -1,0 +1,13 @@
+{
+    "modularity": -0.008573263234161138,
+    "surprise": 0,
+    "keyword_coherence": 0.4928638933824804,
+    "nmi": 0,
+    "runtime_seconds": 54.61677646636963,
+    "community_statistics": {
+        "num_communities": 197,
+        "avg_size": 70.88324873096447,
+        "max_size": 1063,
+        "min_size": 2
+    }
+}

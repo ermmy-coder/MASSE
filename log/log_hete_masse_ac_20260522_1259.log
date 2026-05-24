@@ -1,0 +1,32 @@
+[INFO] 2026-05-22 12:59:29,721 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-22 12:59:29,742 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-22 12:59:29,749 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-22 12:59:29,755 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-22 12:59:29,807 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-22 12:59:29,859 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-22 12:59:29,874 - 
+========== Building A-P-A ==========
+[INFO] 2026-05-22 12:59:29,877 - A-P-A matrix shape=(14475, 14475)
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'infomap', 'wurlitzer', 'leidenalg', 'bayanpy', 'graph_tool'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'infomap', 'wurlitzer', 'leidenalg'}
+[INFO] Dataset dir: /root/autodl-tmp/Hete_MASSE/datasets/DBLP
+
+========== LOADING DBLP ==========
+Authors: 14475
+Papers: 14376
+Conferences: 20
+Terms: 8920
+Paper-Author edges: 83588
+Paper-Conference edges: 28752
+Paper-Term edges: 229248
+
+Total edges: 341588
+Traceback (most recent call last):
+  File "/root/autodl-tmp/Hete_MASSE/experiments/run_dblp_ac.py", line 105, in <module>
+    multiplex = build_multiplex_network(
+  File "/root/autodl-tmp/Hete_MASSE/core/multiplex.py", line 143, in build_multiplex_network
+    edges = engine.matrix_to_edges(
+  File "/root/autodl-tmp/Hete_MASSE/core/metapath_engine.py", line 212, in matrix_to_edges
+    u = self.reverse_maps[
+KeyError: 'autor'

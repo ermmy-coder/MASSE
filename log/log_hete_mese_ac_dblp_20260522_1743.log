@@ -1,0 +1,242 @@
+[INFO] 2026-05-22 17:43:19,823 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-22 17:43:19,844 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-22 17:43:19,850 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-22 17:43:19,857 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-22 17:43:19,913 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-22 17:43:19,968 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-22 17:43:19,983 - 
+========== Building A-P-A ==========
+[INFO] 2026-05-22 17:43:19,986 - A-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 17:43:20,190 - A-P-A nodes=14036 edges=40269 total_weight=114322.0000
+[INFO] 2026-05-22 17:43:20,195 - 
+========== Building A-P-C-P-A ==========
+[INFO] 2026-05-22 17:43:21,873 - A-P-C-P-A matrix shape=(14475, 14475)
+[INFO] 2026-05-22 17:45:23,029 - A-P-C-P-A nodes=14475 edges=19445349 total_weight=45443186.0105
+[INFO] 2026-05-22 17:45:24,887 - Running community detection on A-P-A
+[INFO] 2026-05-22 17:45:27,791 - A-P-A communities=608
+[INFO] 2026-05-22 17:45:27,803 - Running community detection on A-P-C-P-A
+[INFO] 2026-05-22 17:52:07,210 - A-P-C-P-A communities=4
+[INFO] 2026-05-22 17:52:18,225 - Candidate edges=19445349
+[INFO] 2026-05-22 17:52:18,857 - Processed 100000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:19,420 - Processed 200000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:19,997 - Processed 300000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:20,539 - Processed 400000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:21,083 - Processed 500000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:21,601 - Processed 600000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:22,174 - Processed 700000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:22,761 - Processed 800000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:23,351 - Processed 900000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:23,952 - Processed 1000000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:24,523 - Processed 1100000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:25,054 - Processed 1200000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:25,619 - Processed 1300000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:26,168 - Processed 1400000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:26,707 - Processed 1500000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:27,236 - Processed 1600000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:27,758 - Processed 1700000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:28,287 - Processed 1800000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:28,806 - Processed 1900000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:29,311 - Processed 2000000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:29,820 - Processed 2100000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:30,374 - Processed 2200000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:30,927 - Processed 2300000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:31,448 - Processed 2400000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:31,950 - Processed 2500000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:32,492 - Processed 2600000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:33,038 - Processed 2700000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:33,571 - Processed 2800000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:34,098 - Processed 2900000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:34,589 - Processed 3000000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:35,084 - Processed 3100000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:35,558 - Processed 3200000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:36,043 - Processed 3300000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:36,531 - Processed 3400000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:37,017 - Processed 3500000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:37,504 - Processed 3600000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:37,989 - Processed 3700000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:38,481 - Processed 3800000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:38,980 - Processed 3900000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:39,464 - Processed 4000000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:39,941 - Processed 4100000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:40,424 - Processed 4200000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:40,920 - Processed 4300000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:41,415 - Processed 4400000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:41,908 - Processed 4500000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:42,387 - Processed 4600000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:42,868 - Processed 4700000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:43,344 - Processed 4800000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:43,826 - Processed 4900000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:44,305 - Processed 5000000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:44,795 - Processed 5100000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:45,298 - Processed 5200000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:45,788 - Processed 5300000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:46,326 - Processed 5400000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:46,866 - Processed 5500000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:47,412 - Processed 5600000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:47,963 - Processed 5700000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:48,516 - Processed 5800000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:49,073 - Processed 5900000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:49,621 - Processed 6000000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:50,161 - Processed 6100000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:50,690 - Processed 6200000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:51,244 - Processed 6300000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:51,793 - Processed 6400000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:52,327 - Processed 6500000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:52,848 - Processed 6600000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:53,387 - Processed 6700000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:53,933 - Processed 6800000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:54,474 - Processed 6900000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:55,017 - Processed 7000000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:55,567 - Processed 7100000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:56,086 - Processed 7200000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:56,591 - Processed 7300000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:57,089 - Processed 7400000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:57,586 - Processed 7500000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:58,077 - Processed 7600000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:58,567 - Processed 7700000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:59,056 - Processed 7800000/19445349 candidate edges
+[INFO] 2026-05-22 17:52:59,536 - Processed 7900000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:00,043 - Processed 8000000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:00,524 - Processed 8100000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:01,000 - Processed 8200000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:01,476 - Processed 8300000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:01,953 - Processed 8400000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:02,423 - Processed 8500000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:02,893 - Processed 8600000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:03,358 - Processed 8700000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:03,831 - Processed 8800000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:04,307 - Processed 8900000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:04,774 - Processed 9000000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:05,241 - Processed 9100000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:05,705 - Processed 9200000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:06,181 - Processed 9300000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:06,647 - Processed 9400000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:07,111 - Processed 9500000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:07,580 - Processed 9600000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:08,069 - Processed 9700000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:08,599 - Processed 9800000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:09,117 - Processed 9900000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:09,644 - Processed 10000000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:10,180 - Processed 10100000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:10,701 - Processed 10200000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:11,206 - Processed 10300000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:11,710 - Processed 10400000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:12,214 - Processed 10500000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:12,716 - Processed 10600000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:13,235 - Processed 10700000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:13,761 - Processed 10800000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:14,271 - Processed 10900000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:14,811 - Processed 11000000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:15,345 - Processed 11100000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:15,879 - Processed 11200000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:16,418 - Processed 11300000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:16,966 - Processed 11400000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:17,509 - Processed 11500000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:18,042 - Processed 11600000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:18,547 - Processed 11700000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:19,044 - Processed 11800000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:19,526 - Processed 11900000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:20,012 - Processed 12000000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:20,500 - Processed 12100000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:21,007 - Processed 12200000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:21,503 - Processed 12300000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:22,012 - Processed 12400000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:22,503 - Processed 12500000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:23,012 - Processed 12600000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:23,501 - Processed 12700000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:23,983 - Processed 12800000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:24,469 - Processed 12900000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:24,951 - Processed 13000000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:25,443 - Processed 13100000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:25,921 - Processed 13200000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:26,401 - Processed 13300000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:26,878 - Processed 13400000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:27,357 - Processed 13500000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:27,829 - Processed 13600000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:28,298 - Processed 13700000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:28,769 - Processed 13800000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:29,250 - Processed 13900000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:29,720 - Processed 14000000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:30,210 - Processed 14100000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:30,777 - Processed 14200000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:31,381 - Processed 14300000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:31,935 - Processed 14400000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:32,483 - Processed 14500000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:33,032 - Processed 14600000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:33,581 - Processed 14700000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:34,115 - Processed 14800000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:34,625 - Processed 14900000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:35,144 - Processed 15000000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:35,688 - Processed 15100000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:36,219 - Processed 15200000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:36,734 - Processed 15300000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:37,238 - Processed 15400000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:37,779 - Processed 15500000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:38,312 - Processed 15600000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:38,843 - Processed 15700000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:39,359 - Processed 15800000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:39,880 - Processed 15900000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:40,364 - Processed 16000000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:40,830 - Processed 16100000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:41,299 - Processed 16200000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:41,782 - Processed 16300000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:42,254 - Processed 16400000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:42,720 - Processed 16500000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:43,187 - Processed 16600000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:43,659 - Processed 16700000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:44,138 - Processed 16800000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:44,611 - Processed 16900000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:45,084 - Processed 17000000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:45,557 - Processed 17100000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:46,045 - Processed 17200000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:46,540 - Processed 17300000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:47,021 - Processed 17400000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:47,516 - Processed 17500000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:48,010 - Processed 17600000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:48,506 - Processed 17700000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:48,995 - Processed 17800000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:49,481 - Processed 17900000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:49,968 - Processed 18000000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:50,480 - Processed 18100000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:50,975 - Processed 18200000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:51,473 - Processed 18300000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:51,962 - Processed 18400000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:52,517 - Processed 18500000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:53,047 - Processed 18600000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:53,574 - Processed 18700000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:54,111 - Processed 18800000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:54,654 - Processed 18900000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:55,194 - Processed 19000000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:55,724 - Processed 19100000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:56,254 - Processed 19200000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:56,821 - Processed 19300000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:57,372 - Processed 19400000/19445349 candidate edges
+[INFO] 2026-05-22 17:53:57,621 - Consensus graph nodes=14475 edges=15187464
+[INFO] 2026-05-22 17:53:57,622 - Running Louvain on consensus graph
+[INFO] 2026-05-22 18:00:15,066 - Seed communities=4
+[INFO] 2026-05-22 18:00:18,672 - Expanding community 0
+[INFO] 2026-05-22 18:00:23,979 - Expanding community 1
+[INFO] 2026-05-22 18:00:27,012 - Expanding community 2
+[INFO] 2026-05-22 18:00:29,143 - Expanding community 3
+[INFO] 2026-05-22 18:02:56,831 - [EVAL] Modularity=-0.0043
+[INFO] 2026-05-22 18:02:56,831 - [EVAL] Surprise=0.0000
+[INFO] 2026-05-22 18:02:56,831 - [EVAL] Keyword coherence=0.0000
+[INFO] 2026-05-22 18:02:56,831 - [EVAL] Community stats={'num_communities': 4, 'avg_size': np.float64(3618.75), 'max_size': np.int64(4839), 'min_size': np.int64(2776)}
+[INFO] 2026-05-22 18:02:56,837 - [NMI DEBUG] matched_nodes=4057
+[INFO] 2026-05-22 18:02:56,842 - [NMI] 0.7815
+[INFO] 2026-05-22 18:02:56,848 - Saved communities...
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'bayanpy', 'graph_tool', 'leidenalg', 'wurlitzer', 'infomap'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'pyclustering', 'ASLPAw'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'wurlitzer', 'infomap', 'leidenalg'}
+
+========== LOADING DBLP ==========
+Authors: 14475
+Papers: 14376
+Conferences: 20
+Terms: 8920
+Paper-Author edges: 83588
+Paper-Conference edges: 28752
+Paper-Term edges: 229248
+
+Total edges: 341588
+{'method': 'Hete_MESE', 'modularity': np.float64(-0.004288842294017856), 'nmi': 0.7815126732575283, 'runtime': 1031.5684912204742, 'statistics': {'num_communities': 4, 'avg_size': np.float64(3618.75), 'max_size': np.int64(4839), 'min_size': np.int64(2776)}}

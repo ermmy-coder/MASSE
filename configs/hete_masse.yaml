@@ -1,0 +1,38 @@
+exp_name: hete_masse_author_dblp_2_edge
+
+dataset: DBLP
+
+center_type: author #paper
+
+meta_paths:
+#DBLP
+  # P-A-P: 1.0
+  # P-T-P: 0.5
+  # P-C-P: 0.5
+  
+  A-P-A: 1.0
+  A-P-C-P-A: 0.5
+#ACM
+  # P-A-P: 1.0
+  # P-S-P: 0.6
+  # P-C-P: 0.8
+
+thresholds:
+  # P-A-P: 1
+  # P-T-P: 5
+  # P-C-P: 1
+  
+  A-P-A: 2
+  A-P-C-P-A: 10
+
+
+
+consensus:
+
+  min_agree: 1
+
+  normalize: agree_only
+
+expansion:
+
+  stable: true

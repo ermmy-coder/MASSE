@@ -1,0 +1,22 @@
+{
+    "exp_name": "hete_masse_paper",
+    "dataset": "DBLP",
+    "center_type": "paper",
+    "meta_paths": {
+        "P-A-P": 1.0,
+        "P-T-P": 0.8,
+        "P-C-P": 0.6
+    },
+    "thresholds": {
+        "P-A-P": 1,
+        "P-T-P": 5,
+        "P-C-P": 2
+    },
+    "consensus": {
+        "min_agree": 1,
+        "normalize": "agree_only"
+    },
+    "expansion": {
+        "stable": true
+    }
+}
