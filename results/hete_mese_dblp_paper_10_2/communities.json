@@ -1,0 +1,3953 @@
+[
+    {
+        "community_id": 0,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 1,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 2,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 3,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 4,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 5,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 6,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 7,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 8,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 9,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 10,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 11,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 12,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 13,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 14,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 15,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 16,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 17,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 18,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 19,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 20,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 21,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 22,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 23,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 24,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 25,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 26,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 27,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 28,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 29,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 30,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 31,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 32,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 33,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 34,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 35,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 36,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 37,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 38,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 39,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 40,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 41,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 42,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 43,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 44,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 45,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 46,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 47,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 48,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 49,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 50,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 51,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 52,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 53,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 54,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 55,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 56,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 57,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 58,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 59,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 60,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 61,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 62,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 63,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 64,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 65,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 66,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 67,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 68,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 69,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 70,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 71,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 72,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 73,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 74,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 75,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 76,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 77,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 78,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 79,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 80,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 81,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 82,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 83,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 84,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 85,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 86,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 87,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 88,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 89,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 90,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 91,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 92,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 93,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 94,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 95,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 96,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 97,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 98,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 99,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 100,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 101,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 102,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 103,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 104,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 105,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 106,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 107,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 108,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 109,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 110,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 111,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 112,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 113,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 114,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 115,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 116,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 117,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 118,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 119,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 120,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 121,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 122,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 123,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 124,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 125,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 126,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 127,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 128,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 129,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 130,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 131,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 132,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 133,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 134,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 135,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 136,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 137,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 138,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 139,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 140,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 141,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 142,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 143,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 144,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 145,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 146,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 147,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 148,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 149,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 150,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 151,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 152,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 153,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 154,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 155,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 156,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 157,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 158,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 159,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 160,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 161,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 162,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 163,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 164,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 165,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 166,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 167,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 168,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 169,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 170,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 171,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 172,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 173,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 174,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 175,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 176,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 177,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 178,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 179,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 180,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 181,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 182,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 183,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 184,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 185,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 186,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 187,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 188,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 189,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 190,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 191,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 192,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 193,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 194,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 195,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 196,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 197,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 198,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 199,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 200,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 201,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 202,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 203,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 204,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 205,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 206,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 207,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 208,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 209,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 210,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 211,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 212,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 213,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 214,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 215,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 216,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 217,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 218,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 219,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 220,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 221,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 222,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 223,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 224,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 225,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 226,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 227,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 228,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 229,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 230,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 231,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 232,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 233,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 234,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 235,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 236,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 237,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 238,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 239,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 240,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 241,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 242,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 243,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 244,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 245,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 246,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 247,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 248,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 249,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 250,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 251,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 252,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 253,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 254,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 255,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 256,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 257,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 258,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 259,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 260,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 261,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 262,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 263,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 264,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 265,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 266,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 267,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 268,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 269,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 270,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 271,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 272,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 273,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 274,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 275,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 276,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 277,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 278,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 279,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 280,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 281,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 282,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 283,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 284,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 285,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 286,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 287,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 288,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 289,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 290,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 291,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 292,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 293,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 294,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 295,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 296,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 297,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 298,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 299,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 300,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 301,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 302,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 303,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 304,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 305,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 306,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 307,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 308,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 309,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 310,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 311,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 312,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 313,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 314,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 315,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 316,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 317,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 318,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 319,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 320,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 321,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 322,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 323,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 324,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 325,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 326,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 327,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 328,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 329,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 330,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 331,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 332,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 333,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 334,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 335,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 336,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 337,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 338,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 339,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 340,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 341,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 342,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 343,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 344,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 345,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 346,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 347,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 348,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 349,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 350,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 351,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 352,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 353,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 354,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 355,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 356,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 357,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 358,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 359,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 360,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 361,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 362,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 363,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 364,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 365,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 366,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 367,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 368,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 369,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 370,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 371,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 372,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 373,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 374,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 375,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 376,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 377,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 378,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 379,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 380,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 381,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 382,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 383,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 384,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 385,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 386,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 387,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 388,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 389,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 390,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 391,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 392,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 393,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 394,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 395,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 396,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 397,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 398,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 399,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 400,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 401,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 402,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 403,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 404,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 405,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 406,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 407,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 408,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 409,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 410,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 411,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 412,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 413,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 414,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 415,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 416,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 417,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 418,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 419,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 420,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 421,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 422,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 423,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 424,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 425,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 426,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 427,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 428,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 429,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 430,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 431,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 432,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 433,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 434,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 435,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 436,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 437,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    },
+    {
+        "community_id": 438,
+        "nodes": [
+            "paper",
+            "author",
+            "conference",
+            "term"
+        ]
+    }
+]

@@ -249,7 +249,7 @@ with open(
 
 community_save = []
 
-for cid, comm in enumerate(seed_comms):
+for cid, comm in enumerate(final_comms):
 
     community_save.append({
 

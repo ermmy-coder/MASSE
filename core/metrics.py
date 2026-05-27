@@ -324,10 +324,23 @@ def calc_community_statistics(
     communities
 ):
 
-    sizes = [
-        len(c)
-        for c in communities
-    ]
+    sizes = []
+
+    for comm in communities:
+    
+        if isinstance(comm, dict):
+    
+            total = 0
+    
+            for nodes in comm.values():
+    
+                total += len(nodes)
+    
+            sizes.append(total)
+    
+        else:
+    
+            sizes.append(len(comm))
 
     return {
         'num_communities': len(communities),
@@ -543,7 +556,7 @@ def calculate_nmi(
     node_prefix,
     logger=None
 ):
-
+    visited = set()#add for nmi
     pred_nodes = []
     pred_labels = []
 
@@ -558,6 +571,13 @@ def calculate_nmi(
 
             if node not in ground_truth_labels:
                 continue
+
+            #add for nmi 
+            if node in visited:
+                continue
+            
+            visited.add(node)
+            ###
 
             pred_nodes.append(node)
 

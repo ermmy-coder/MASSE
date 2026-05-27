@@ -1,0 +1,22 @@
+{
+    "exp_name": "hete_mese_dblp_paper_2",
+    "dataset": "DBLP",
+    "center_type": "paper",
+    "meta_paths": {
+        "P-A-P": 1.0,
+        "P-T-P": 1.0,
+        "P-C-P": 1.0
+    },
+    "thresholds": {
+        "P-A-P": 1,
+        "P-T-P": 5,
+        "P-C-P": 1
+    },
+    "consensus": {
+        "min_agree": 1,
+        "normalize": "all_layers"
+    },
+    "expansion": {
+        "stable": false
+    }
+}

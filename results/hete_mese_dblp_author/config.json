@@ -1,0 +1,22 @@
+{
+    "exp_name": "hete_mese_dblp_author",
+    "dataset": "DBLP",
+    "center_type": "author",
+    "meta_paths": {
+        "A-P-A": 1.0,
+        "A-P-T-P-A": 1.0,
+        "A-P-C-P-A": 1.0
+    },
+    "thresholds": {
+        "A-P-A": 2,
+        "A-P-T-P-A": 1000,
+        "A-P-C-P-A": 50
+    },
+    "consensus": {
+        "min_agree": 1,
+        "normalize": "all_layers"
+    },
+    "expansion": {
+        "stable": false
+    }
+}

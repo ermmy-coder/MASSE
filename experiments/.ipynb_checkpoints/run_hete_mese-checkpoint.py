@@ -3,6 +3,8 @@ import sys
 import yaml
 import json
 import time
+import random
+import numpy as np
 
 sys.path.append(
     os.path.dirname(
@@ -87,6 +89,16 @@ hetero_graph = load_dblp_dataset(
 # ==========================================================
 
 start_time = time.time()
+
+# ======================================================
+# multi-run experiment
+# ======================================================
+
+num_runs = 3
+
+all_results = []
+
+all_partitions = []
 
 # ==========================================================
 # multiplex
@@ -248,7 +260,7 @@ with open(
 
 community_save = []
 
-for cid, comm in enumerate(seed_comms):
+for cid, comm in enumerate(final_comms):
 
     community_save.append({
 

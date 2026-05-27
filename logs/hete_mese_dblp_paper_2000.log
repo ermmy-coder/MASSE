@@ -1,0 +1,9 @@
+[INFO] 2026-05-26 23:37:29,984 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-26 23:37:30,019 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-26 23:37:30,030 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-26 23:37:30,042 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-26 23:37:30,129 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-26 23:37:30,220 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-26 23:37:30,246 - 
+========== Building A-P-A ==========
+[INFO] 2026-05-26 23:37:30,251 - A-P-A matrix shape=(14475, 14475)
