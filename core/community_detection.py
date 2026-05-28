@@ -17,6 +17,7 @@ def run_louvain(G):
     ]
 
 
+
 # ==========================================================
 # Label Propagation
 # ==========================================================
@@ -52,11 +53,19 @@ def run_infomap(G):
 # ==========================================================
 # Leiden
 # ==========================================================
-
-def run_leiden(G):
+def run_leiden(
+    G,
+    resolution=1.0,
+    weights=None
+):
 
     comms = algorithms.leiden(
-        G
+
+        G,
+
+        weights=weights,
+
+        # resolution_parameter=resolution
     ).communities
 
     return [

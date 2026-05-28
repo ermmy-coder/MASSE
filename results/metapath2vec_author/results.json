@@ -1,0 +1,15 @@
+{
+    "method": "MetaPath2Vec",
+    "modularity": 0.7248973884868279,
+    "paper_nmi": 0,
+    "author_nmi": 0.09050153597711542,
+    "conference_nmi": 0,
+    "overall_nmi": 0.030167178659038476,
+    "runtime": 59.214221239089966,
+    "statistics": {
+        "num_communities": 4,
+        "avg_size": 3618.75,
+        "max_size": "4196",
+        "min_size": "2514"
+    }
+}

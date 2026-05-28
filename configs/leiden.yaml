@@ -1,0 +1,11 @@
+exp_name: leiden_author
+
+dataset: DBLP
+
+center_type: author
+
+leiden:
+
+  resolution: 1.0
+
+  weight: null

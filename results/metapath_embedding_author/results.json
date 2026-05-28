@@ -1,0 +1,16 @@
+{
+    "method": "MetaPathEmbedding",
+    "meta_path": "A-P-A",
+    "modularity": 0.0230343823858004,
+    "paper_nmi": 0,
+    "author_nmi": 0.023257723728904875,
+    "conference_nmi": 0,
+    "overall_nmi": 0.007752574576301625,
+    "runtime": 10.124295234680176,
+    "statistics": {
+        "num_communities": 20,
+        "avg_size": 723.75,
+        "max_size": "13947",
+        "min_size": "3"
+    }
+}

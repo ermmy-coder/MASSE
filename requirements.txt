@@ -6,3 +6,6 @@ cdlib
 python-louvain
 scikit-learn
 pyyaml
+karateclub
+gensim
+leidenalg igraph

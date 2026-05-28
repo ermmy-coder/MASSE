@@ -1,0 +1,8 @@
+[INFO] 2026-05-27 12:53:59,004 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-27 12:53:59,020 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-27 12:53:59,025 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-27 12:53:59,029 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-27 12:53:59,068 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-27 12:53:59,104 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-27 12:53:59,120 - Meta-path matrix shape=(14475, 14475)
+[INFO] 2026-05-27 12:54:07,925 - Embedding shape=(14475, 64)

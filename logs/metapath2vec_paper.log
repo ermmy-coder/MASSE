@@ -1,0 +1,12 @@
+[INFO] 2026-05-27 14:16:03,541 - Generated walks=287520
+[INFO] 2026-05-27 14:16:49,792 - Word2Vec training finished
+[INFO] 2026-05-27 14:16:49,814 - Embedding shape=(14376, 64)
+[INFO] 2026-05-27 14:17:25,796 - [EVAL] Modularity=0.7479
+[INFO] 2026-05-27 14:17:25,796 - [EVAL] Surprise=0.0000
+[INFO] 2026-05-27 14:17:25,796 - [EVAL] Keyword coherence=0.3935
+[INFO] 2026-05-27 14:17:25,796 - [EVAL] Community stats={'num_communities': 4, 'avg_size': 3594.0, 'max_size': 3776, 'min_size': 3323}
+[INFO] 2026-05-27 14:17:25,798 - [NMI DEBUG] matched_nodes=0
+[INFO] 2026-05-27 14:17:25,799 - [NMI DEBUG] matched_nodes=100
+[INFO] 2026-05-27 14:17:25,801 - [NMI] 0.2582
+[INFO] 2026-05-27 14:17:25,802 - [NMI DEBUG] matched_nodes=0
+[INFO] 2026-05-27 14:17:25,805 - Saved results...

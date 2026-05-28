@@ -1,0 +1,15 @@
+{
+    "method": "Louvain",
+    "modularity": 0.39664335462750316,
+    "paper_nmi": 0.3586553425633534,
+    "author_nmi": 0.3513889950638611,
+    "conference_nmi": 0.7686835705879628,
+    "overall_nmi": 0.49290930273839245,
+    "runtime": 5.738332986831665,
+    "statistics": {
+        "num_communities": 35,
+        "avg_size": 1079.7428571428572,
+        "max_size": "5681",
+        "min_size": "6"
+    }
+}

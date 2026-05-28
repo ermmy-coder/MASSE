@@ -1,0 +1,13 @@
+exp_name: louvain_author
+
+dataset: DBLP
+
+center_type: author
+
+louvain:
+
+  resolution: 1.0
+
+  weight: null
+
+  seed: 42

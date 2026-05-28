@@ -1,0 +1,15 @@
+exp_name: metapath_embedding_author
+
+dataset: DBLP
+
+center_type: author
+
+meta_path: A-P-T-P-A
+
+embedding:
+
+  dim: 64
+
+kmeans:
+
+  n_clusters: 20

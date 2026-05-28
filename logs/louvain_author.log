@@ -1,0 +1,12 @@
+[INFO] 2026-05-27 12:45:13,899 - Graph nodes=37791 edges=170794
+[INFO] 2026-05-27 12:45:23,411 - [EVAL] Modularity=0.3966
+[INFO] 2026-05-27 12:45:23,411 - [EVAL] Surprise=0.0000
+[INFO] 2026-05-27 12:45:23,411 - [EVAL] Keyword coherence=0.4773
+[INFO] 2026-05-27 12:45:23,411 - [EVAL] Community stats={'num_communities': 35, 'avg_size': 1079.7428571428572, 'max_size': 5681, 'min_size': 6}
+[INFO] 2026-05-27 12:45:23,416 - [NMI DEBUG] matched_nodes=4057
+[INFO] 2026-05-27 12:45:23,421 - [NMI] 0.3514
+[INFO] 2026-05-27 12:45:23,424 - [NMI DEBUG] matched_nodes=100
+[INFO] 2026-05-27 12:45:23,425 - [NMI] 0.3587
+[INFO] 2026-05-27 12:45:23,427 - [NMI DEBUG] matched_nodes=20
+[INFO] 2026-05-27 12:45:23,428 - [NMI] 0.7687
+[INFO] 2026-05-27 12:45:23,434 - Saved communities...
