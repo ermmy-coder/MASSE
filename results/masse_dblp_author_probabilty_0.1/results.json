@@ -1,0 +1,15 @@
+{
+    "method": "MASSE",
+    "modularity": 0.49912615754887346,
+    "paper_nmi": 0.0,
+    "author_nmi": 0.6231327905348989,
+    "conference_nmi": 0.0,
+    "overall_nmi": 0.20771093017829964,
+    "runtime": 1446.5231609344482,
+    "statistics": {
+        "num_communities": 113,
+        "avg_size": 23377.353982300883,
+        "max_size": "25387",
+        "min_size": "23318"
+    }
+}

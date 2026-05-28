@@ -1,0 +1,42 @@
+{
+    "exp_name": "masse_dblp_author_probabilty_0.5",
+    "dataset": "DBLP",
+    "center_type": "author",
+    "meta_paths": {
+        "A-P-A": 1.0,
+        "A-P-T-P-A": 1.0,
+        "A-P-C-P-A": 1.0
+    },
+    "thresholds": {
+        "A-P-A": 2,
+        "A-P-T-P-A": 2000,
+        "A-P-C-P-A": 50
+    },
+    "consensus": {
+        "min_agree": 1,
+        "normalize": "agree_only"
+    },
+    "masse": {
+        "reliability": {
+            "enabled": true,
+            "entropy_temperature": 1.0,
+            "min_reliability": 0.001
+        },
+        "interaction": {
+            "enabled": true,
+            "aggregation": "mean",
+            "topk": 10
+        },
+        "consensus": {
+            "min_agree": 1,
+            "normalize": "agree_only",
+            "semantic_alpha": 0.3
+        },
+        "expansion": {
+            "enabled": true,
+            "probability_threshold": 0.5,
+            "softmax_temperature": 1.0,
+            "overlap_normalize": true
+        }
+    }
+}
