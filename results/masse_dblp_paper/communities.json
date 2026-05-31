@@ -79,59 +79,5 @@
             "conference",
             "term"
         ]
-    },
-    {
-        "community_id": 9,
-        "nodes": [
-            "paper",
-            "author",
-            "conference",
-            "term"
-        ]
-    },
-    {
-        "community_id": 10,
-        "nodes": [
-            "paper",
-            "author",
-            "conference",
-            "term"
-        ]
-    },
-    {
-        "community_id": 11,
-        "nodes": [
-            "paper",
-            "author",
-            "conference",
-            "term"
-        ]
-    },
-    {
-        "community_id": 12,
-        "nodes": [
-            "paper",
-            "author",
-            "conference",
-            "term"
-        ]
-    },
-    {
-        "community_id": 13,
-        "nodes": [
-            "paper",
-            "author",
-            "conference",
-            "term"
-        ]
-    },
-    {
-        "community_id": 14,
-        "nodes": [
-            "paper",
-            "author",
-            "conference",
-            "term"
-        ]
     }
 ]

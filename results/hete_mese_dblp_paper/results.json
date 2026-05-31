@@ -1,11 +1,11 @@
 {
     "method": "Hete_MESE",
-    "modularity": 0.8519119016964899,
-    "paper_nmi": 0.500606957030062,
-    "author_nmi": 0.5445278314566183,
+    "modularity": 0.8554999775116972,
+    "paper_nmi": 0.5006069570300621,
+    "author_nmi": 0.5445278314566181,
     "conference_nmi": 0.6207194761358783,
-    "overall_nmi": 0.5552847548741863,
-    "runtime": 608.0928461551666,
+    "overall_nmi": 0.5552847548741862,
+    "runtime": 729.4543409347534,
     "statistics": {
         "num_communities": 18,
         "avg_size": 3676.6666666666665,

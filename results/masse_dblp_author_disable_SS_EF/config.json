@@ -1,0 +1,49 @@
+{
+    "exp_name": "masse_dblp_author_disable_SS_EF",
+    "dataset": "DBLP",
+    "center_type": "author",
+    "meta_paths": {
+        "A-P-A": 1.0,
+        "A-P-T-P-A": 1.0,
+        "A-P-C-P-A": 1.0
+    },
+    "thresholds": {
+        "A-P-A": 2,
+        "A-P-T-P-A": 2000,
+        "A-P-C-P-A": 50
+    },
+    "consensus": {
+        "min_agree": 1,
+        "normalize": "agree_only"
+    },
+    "masse": {
+        "reliability": {
+            "enabled": true,
+            "entropy_temperature": 1.0,
+            "min_reliability": 0.01
+        },
+        "subspace": {
+            "n_clusters": 2
+        },
+        "interaction": {
+            "enabled": true
+        },
+        "consensus": {
+            "min_agree": 1,
+            "normalize": "agree_only"
+        },
+        "expansion": {
+            "enabled": true,
+            "probability_threshold": 0.3,
+            "softmax_temperature": 1.0,
+            "overlap_normalize": true
+        }
+    },
+    "ablation": {
+        "disable_reliability": false,
+        "disable_interaction": false,
+        "disable_subspace": true,
+        "disable_fusion": true,
+        "disable_expansion": false
+    }
+}

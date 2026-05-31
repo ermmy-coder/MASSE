@@ -1,0 +1,49 @@
+{
+    "exp_name": "masse_dblp_paper_5",
+    "dataset": "DBLP",
+    "center_type": "paper",
+    "meta_paths": {
+        "P-A-P": 1.0,
+        "P-T-P": 1.0,
+        "P-C-P": 1.0
+    },
+    "thresholds": {
+        "P-A-P": 1,
+        "P-T-P": 5,
+        "P-C-P": 1
+    },
+    "consensus": {
+        "min_agree": 1,
+        "normalize": "agree_only"
+    },
+    "masse": {
+        "reliability": {
+            "enabled": true,
+            "entropy_temperature": 1.0,
+            "min_reliability": 0.01
+        },
+        "subspace": {
+            "n_clusters": 2
+        },
+        "interaction": {
+            "enabled": true
+        },
+        "consensus": {
+            "min_agree": 1,
+            "normalize": "agree_only"
+        },
+        "expansion": {
+            "enabled": true,
+            "probability_threshold": 0.3,
+            "softmax_temperature": 1.0,
+            "overlap_normalize": true
+        }
+    },
+    "ablation": {
+        "disable_reliability": false,
+        "disable_interaction": false,
+        "disable_subspace": false,
+        "disable_fusion": false,
+        "disable_expansion": false
+    }
+}

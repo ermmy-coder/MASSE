@@ -116,13 +116,26 @@ seed_comms, consensus_graph = (
 # expansion
 # ==========================================================
 
-final_comms = seed_expansion_masse(
-    hetero_graph,
-    seed_comms,
-    config['center_type'],
-    logger,
-    config
-)
+if config[
+    'ablation'
+]['disable_expansion']:
+
+    logger.info(
+        '[ABLATION] '
+        'Expansion Disabled'
+    )
+
+    final_comms = seed_comms
+
+else:
+
+    final_comms = seed_expansion_masse(
+        hetero_graph,
+        seed_comms,
+        config['center_type'],
+        logger,
+        config
+    )
 
 runtime = time.time() - start_time
 

@@ -1015,14 +1015,5 @@
             "conference",
             "term"
         ]
-    },
-    {
-        "community_id": 113,
-        "nodes": [
-            "author",
-            "paper",
-            "conference",
-            "term"
-        ]
     }
 ]

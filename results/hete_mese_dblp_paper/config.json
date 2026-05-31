@@ -9,7 +9,7 @@
     },
     "thresholds": {
         "P-A-P": 1,
-        "P-T-P": 5,
+        "P-T-P": 8,
         "P-C-P": 1
     },
     "consensus": {

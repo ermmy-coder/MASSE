@@ -1,0 +1,26 @@
+[INFO] 2026-05-26 23:41:41,351 - [MATRIX] writes shape=(14376, 14475)
+[INFO] 2026-05-26 23:41:41,387 - [MATRIX] be_written shape=(14475, 14376)
+[INFO] 2026-05-26 23:41:41,399 - [MATRIX] published_in shape=(14376, 20)
+[INFO] 2026-05-26 23:41:41,411 - [MATRIX] publish shape=(20, 14376)
+[INFO] 2026-05-26 23:41:41,500 - [MATRIX] has_term shape=(14376, 8920)
+[INFO] 2026-05-26 23:41:41,589 - [MATRIX] term_in shape=(8920, 14376)
+[INFO] 2026-05-26 23:41:41,613 - 
+========== Building P-A-P ==========
+[INFO] 2026-05-26 23:41:41,626 - P-A-P matrix shape=(14376, 14376)
+[INFO] 2026-05-26 23:41:45,889 - P-A-P nodes=13774 edges=215663 total_weight=497692.0000
+[INFO] 2026-05-26 23:41:45,896 - 
+========== Building P-T-P ==========
+[INFO] 2026-05-26 23:41:47,581 - P-T-P matrix shape=(14376, 14376)
+[INFO] 2026-05-26 23:42:24,288 - P-T-P nodes=0 edges=0 total_weight=0.0000
+[WARNING] 2026-05-26 23:42:24,289 - [SKIP] P-T-P generated empty graph.
+[INFO] 2026-05-26 23:42:24,289 - 
+========== Building P-C-P ==========
+[INFO] 2026-05-26 23:42:24,646 - P-C-P matrix shape=(14376, 14376)
+[INFO] 2026-05-26 23:45:06,708 - P-C-P nodes=14376 edges=8232454 total_weight=16464908.0000
+[INFO] 2026-05-26 23:45:08,004 - 
+========== MASSE Reliability ==========
+[INFO] 2026-05-26 23:45:08,239 - P-A-P reliability=0.075625
+[INFO] 2026-05-26 23:45:08,239 - P-T-P reliability=0.000000
+[INFO] 2026-05-26 23:45:16,155 - P-C-P reliability=0.059089
+[INFO] 2026-05-26 23:47:26,514 - [INTERACTION] P-A-P <-> P-C-P = 0.2230
+[INFO] 2026-05-26 23:47:26,531 - [INTERACTION] P-C-P <-> P-A-P = 0.2230

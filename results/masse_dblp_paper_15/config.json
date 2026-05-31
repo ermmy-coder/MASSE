@@ -20,17 +20,17 @@
         "reliability": {
             "enabled": true,
             "entropy_temperature": 1.0,
-            "min_reliability": 0.001
+            "min_reliability": 0.01
+        },
+        "subspace": {
+            "n_clusters": 2
         },
         "interaction": {
-            "enabled": true,
-            "aggregation": "mean",
-            "topk": 20
+            "enabled": true
         },
         "consensus": {
             "min_agree": 1,
-            "normalize": "agree_only",
-            "semantic_alpha": 0.3
+            "normalize": "agree_only"
         },
         "expansion": {
             "enabled": true,
@@ -38,5 +38,12 @@
             "softmax_temperature": 1.0,
             "overlap_normalize": true
         }
+    },
+    "ablation": {
+        "disable_reliability": false,
+        "disable_interaction": false,
+        "disable_subspace": false,
+        "disable_fusion": false,
+        "disable_expansion": false
     }
 }

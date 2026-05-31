@@ -267,12 +267,18 @@ def build_masse_multiplex(
 
         G = multiplex[meta_path]['graph']
 
-        reliability = (
-            compute_meta_path_reliability(
-                G,
-                config
+        if config['ablation']['disable_reliability']:
+
+            reliability = 1.0
+
+        else:
+
+            reliability = (
+                compute_meta_path_reliability(
+                    G,
+                    config
+                )
             )
-        )
 
         multiplex[meta_path][
             'reliability'
