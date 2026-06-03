@@ -1,4 +1,4 @@
-exp_name: masse_dblp_author_disable_fusion
+exp_name: masse_dblp_author_disable_expansion
 
 dataset: DBLP
 
@@ -74,6 +74,8 @@ ablation:
 
   disable_subspace: false
 
-  disable_fusion: true
+  disable_fusion: false
 
   disable_expansion: false
+  
+seed: 42

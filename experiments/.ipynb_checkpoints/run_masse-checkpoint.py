@@ -29,7 +29,8 @@ from core.consensus import (
 )
 
 from core.expansion import (
-    seed_expansion_masse
+    seed_expansion_masse,
+    seed_expansion
 )
 
 from core.metrics import (
@@ -122,11 +123,15 @@ if config[
 
     logger.info(
         '[ABLATION] '
-        'Expansion Disabled'
+        'Using Hete_MESE Expansion'
     )
 
-    final_comms = seed_comms
-
+    final_comms = seed_expansion(
+        hetero_graph,
+        seed_comms,
+        config['center_type'],
+        logger
+    )
 else:
 
     final_comms = seed_expansion_masse(

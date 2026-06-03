@@ -6,3 +6,4 @@ cdlib
 python-louvain
 scikit-learn
 pyyaml
+gensim

@@ -1,0 +1,23 @@
+[INFO] 2026-06-02 18:38:47,856 - Generated walks=287520
+[INFO] 2026-06-02 18:39:52,219 - Word2Vec training finished
+[INFO] 2026-06-02 18:39:52,372 - Embedding shape=(23296, 64)
+[INFO] 2026-06-02 18:46:05,736 - Generated walks=287520
+[INFO] 2026-06-02 18:47:09,625 - Word2Vec training finished
+[INFO] 2026-06-02 18:47:09,778 - Embedding shape=(23296, 64)
+[INFO] 2026-06-02 20:02:41,822 - Generated walks=287520
+[INFO] 2026-06-02 20:03:47,199 - Word2Vec training finished
+[INFO] 2026-06-02 20:03:47,351 - Embedding shape=(23296, 64)
+[INFO] 2026-06-02 20:03:49,370 - Covered nodes=23296
+[INFO] 2026-06-02 20:03:49,370 - Missing nodes=14495
+[INFO] 2026-06-02 20:03:49,370 - Total nodes=37791
+[INFO] 2026-06-02 20:04:03,676 - [EVAL] Modularity=0.1924
+[INFO] 2026-06-02 20:04:03,676 - [EVAL] Surprise=0.0000
+[INFO] 2026-06-02 20:04:03,676 - [EVAL] Keyword coherence=0.3865
+[INFO] 2026-06-02 20:04:03,676 - [EVAL] Community stats={'num_communities': 14499, 'avg_size': 2.606455617628802, 'max_size': 6264, 'min_size': 1}
+[INFO] 2026-06-02 20:04:03,693 - [NMI DEBUG] matched_nodes=4057
+[INFO] 2026-06-02 20:04:03,698 - [NMI] 0.2834
+[INFO] 2026-06-02 20:04:03,706 - [NMI DEBUG] matched_nodes=100
+[INFO] 2026-06-02 20:04:03,708 - [NMI] 0.1290
+[INFO] 2026-06-02 20:04:03,715 - [NMI DEBUG] matched_nodes=20
+[INFO] 2026-06-02 20:04:03,716 - [NMI] 0.6327
+[INFO] 2026-06-02 20:04:03,840 - Saved results...

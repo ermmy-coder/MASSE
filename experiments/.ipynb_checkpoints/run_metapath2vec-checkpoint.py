@@ -150,23 +150,26 @@ logger.info(
 # embeddings
 # ==========================================================
 
-nodes = hetero_graph[
-    config['center_type']
-]
-
 embeddings = []
 
 valid_nodes = []
 
-for node in nodes:
+for node_type, node_list in hetero_graph.items():
 
-    if node in model.wv:
+    if node_type == 'edges':
+        continue
 
-        embeddings.append(
-            model.wv[node]
-        )
+    for node in node_list:
 
-        valid_nodes.append(node)
+        if node in model.wv:
+
+            embeddings.append(
+                model.wv[node]
+            )
+
+            valid_nodes.append(
+                node
+            )
 
 embeddings = np.array(
     embeddings
@@ -216,32 +219,71 @@ communities = list(
     communities.values()
 )
 
+covered_nodes = set()
+
+for comm in communities:
+
+    covered_nodes.update(comm)
+
+all_nodes = set()
+
+for node_type, node_list in hetero_graph.items():
+
+    if node_type == "edges":
+        continue
+
+    all_nodes.update(node_list)
+
+missing_nodes = all_nodes - covered_nodes
+
+logger.info(
+    f'Covered nodes={len(covered_nodes)}'
+)
+
+logger.info(
+    f'Missing nodes={len(missing_nodes)}'
+)
+
+logger.info(
+    f'Total nodes={len(all_nodes)}'
+)
+
+for node in missing_nodes:
+
+    communities.append(
+        {node}
+    )
+
 # ==========================================================
 # evaluation graph
 # ==========================================================
 
-import networkx as nx
+# import networkx as nx
 
-G = nx.Graph()
+# G = nx.Graph()
 
-for comm in communities:
+# for comm in communities:
 
-    for u in comm:
+#     for u in comm:
 
-        G.add_node(u)
+#         G.add_node(u)
 
-for comm in communities:
+# for comm in communities:
 
-    comm = list(comm)
+#     comm = list(comm)
 
-    for i in range(len(comm)):
+#     for i in range(len(comm)):
 
-        for j in range(i + 1, len(comm)):
+#         for j in range(i + 1, len(comm)):
 
-            G.add_edge(
-                comm[i],
-                comm[j]
-            )
+#             G.add_edge(
+#                 comm[i],
+#                 comm[j]
+#             )
+
+G = convert_to_networkx(
+    hetero_graph
+)
 
 # ==========================================================
 # evaluation

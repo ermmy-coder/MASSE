@@ -1,0 +1,21 @@
+{
+    "exp_name": "metapath2vec_paper_new",
+    "dataset": "DBLP",
+    "center_type": "paper",
+    "meta_path": [
+        "term",
+        "paper"
+    ],
+    "walk": {
+        "length": 30,
+        "num_walks": 20
+    },
+    "word2vec": {
+        "dimensions": 64,
+        "window_size": 7,
+        "workers": 4
+    },
+    "kmeans": {
+        "n_clusters": 4
+    }
+}

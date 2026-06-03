@@ -1,0 +1,23 @@
+{
+    "exp_name": "metapath2vec_author_new",
+    "dataset": "DBLP",
+    "center_type": "author",
+    "meta_path": [
+        "paper",
+        "term",
+        "paper",
+        "author"
+    ],
+    "walk": {
+        "length": 30,
+        "num_walks": 20
+    },
+    "word2vec": {
+        "dimensions": 64,
+        "window_size": 7,
+        "workers": 4
+    },
+    "kmeans": {
+        "n_clusters": 4
+    }
+}

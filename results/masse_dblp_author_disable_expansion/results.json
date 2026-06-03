@@ -1,15 +1,15 @@
 {
     "method": "MASSE",
-    "modularity": 0.6561197846775192,
-    "paper_nmi": 0,
-    "author_nmi": 0.6022083829552277,
-    "conference_nmi": 0,
-    "overall_nmi": 0.20073612765174256,
-    "runtime": 244.020601272583,
+    "modularity": 0.6399249542291096,
+    "paper_nmi": 0.4743221488231635,
+    "author_nmi": 0.6033268684425682,
+    "conference_nmi": 0.0,
+    "overall_nmi": 0.3592163390885772,
+    "runtime": 224.10066938400269,
     "statistics": {
-        "num_communities": 107,
-        "avg_size": 64.79439252336448,
-        "max_size": "2383",
-        "min_size": "2"
+        "num_communities": 102,
+        "avg_size": 435.65686274509807,
+        "max_size": "14126",
+        "min_size": "12"
     }
 }

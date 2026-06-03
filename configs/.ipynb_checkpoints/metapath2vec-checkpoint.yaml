@@ -1,13 +1,17 @@
-exp_name: metapath2vec_paper
+exp_name: metapath2vec_author_new
 
 dataset: DBLP
 
-center_type: paper
+center_type: author
 
 meta_path:
+  # - term
+  # - paper
 
+  - paper
   - term
   - paper
+  - author
 
 walk:
 

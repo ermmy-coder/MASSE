@@ -105,7 +105,8 @@ from sklearn.cluster import SpectralClustering
 def build_semantic_subspaces(
     interaction,
     logger,
-    n_clusters=2
+    n_clusters=2,
+    random_state=42
 ):
 
     layers = list(
@@ -133,7 +134,7 @@ def build_semantic_subspaces(
 
         affinity='precomputed',
 
-        random_state=42
+        random_state=random_state
 
     ).fit_predict(M)
 
@@ -497,6 +498,9 @@ def detect_masse_seed_communities(
                 'masse'
             ]['subspace'][
                 'n_clusters'
+            ],
+            random_state=config[
+                'seed'
             ]
         )
     # ======================================================

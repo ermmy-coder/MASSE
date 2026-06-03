@@ -1,0 +1,6 @@
+[INFO] 2026-06-02 18:38:47,856 - Generated walks=287520
+[INFO] 2026-06-02 18:39:52,219 - Word2Vec training finished
+[INFO] 2026-06-02 18:39:52,372 - Embedding shape=(23296, 64)
+[INFO] 2026-06-02 18:46:05,736 - Generated walks=287520
+[INFO] 2026-06-02 18:47:09,625 - Word2Vec training finished
+[INFO] 2026-06-02 18:47:09,778 - Embedding shape=(23296, 64)
